@@ -1,0 +1,22 @@
+version: '3'
+services:
+  limes-wordnet:
+    container_name: limes-wordnet
+    image: "limes-wordnet:latest"
+    volumes:
+      - "./data:/data/"
+    ports:
+       - "8080:8080"
+    command: "/data/configuration-book.xml"
+    #command: "-s"
+
+  limes:
+    container_name: limes
+    image: "dicegroup/limes:latest"
+    volumes:
+      - "./data:/data/"
+    ports:
+      - "8080:8080"
+    #command: "/data/configuration-book.xml"
+    #command: "-s"
+    
