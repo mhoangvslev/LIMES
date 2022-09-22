@@ -1,0 +1,23 @@
+PREFIX ex: <http://example.org/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+#PREFIX wd: <http://www.wikidata.org/entity/>
+#PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+CONSTRUCT {
+    ?URI_L  a    ex:Movie;
+            ex:title    ?title_l;
+	        ex:director   ?director_l;
+            ex:source   ?src_l.
+    ?URI_R  a    ex:Movie;
+            ex:title    ?title_r;
+	        ex:director   ?director_r;
+            ex:source   ?src_r.
+    ?URI_L  owl:sameAs  ?URI_R;
+}
+FROM <file:example.csv>
+WHERE {
+    BIND(URI(STR(?id_l)) AS ?URI_L)
+    BIND(URI(STR(?id_r)) AS ?URI_R)
+    BIND(URI(CONCAT("https://www.wikidata.org/wiki/", STR(?id))) AS ?src_l)
+    BIND(STR(?id_r) as ?src_r)
+}

@@ -1,0 +1,16 @@
+PREFIX ex: <http://example.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+#PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+CONSTRUCT {
+    ?URI    a    ex:Movie;
+            ex:title    ?title;
+	        ex:director   ?director;
+            ex:source   ?src;
+}
+FROM <file:example.csv>
+WHERE {
+    #BIND(URI(CONCAT("left/", STR(?id))) AS ?URI)
+    BIND(URI(CONCAT("http://www.wikidata.org/entity/", STR(?id))) AS ?URI)
+    BIND(URI(CONCAT("https://www.wikidata.org/wiki/", STR(?id))) AS ?src)
+}

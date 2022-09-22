@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE LIMES SYSTEM "../limes-core/src/main/resources/limes.dtd">
+<LIMES>
+    <PREFIX>
+        <NAMESPACE>http://example.org/</NAMESPACE>
+        <LABEL>ex</LABEL>
+    </PREFIX>
+    
+    <PREFIX>
+        <NAMESPACE>http://www.wikidata.org/entity/</NAMESPACE>
+        <LABEL>wd</LABEL>
+    </PREFIX>
+    
+    <PREFIX>
+        <NAMESPACE>http://www.wikidata.org/prop/direct/</NAMESPACE>
+        <LABEL>wdt</LABEL>
+    </PREFIX>
+
+    <PREFIX>
+        <NAMESPACE>http://www.w3.org/2002/07/owl#</NAMESPACE>
+        <LABEL>owl</LABEL>
+    </PREFIX>
+    
+    <SOURCE>
+        <ID>Wikidata</ID>
+        <ENDPOINT>file:///data/KM_Movie_2col/left.ttl</ENDPOINT>
+        <VAR>?x</VAR>
+        <PAGESIZE>2000</PAGESIZE>
+        <RESTRICTION>?x a ex:Movie</RESTRICTION>
+        <PROPERTY>ex:title RENAME title</PROPERTY>
+        <PROPERTY>ex:director RENAME director</PROPERTY>
+        <TYPE>TTL</TYPE>
+    </SOURCE>
+    
+    <TARGET>
+        <ID>Microdata</ID>
+        <ENDPOINT>file:///data/KM_Movie_2col/right.ttl</ENDPOINT>
+        <VAR>?y</VAR>
+        <PAGESIZE>2000</PAGESIZE>
+        <RESTRICTION>?y a ex:Movie</RESTRICTION>
+        <PROPERTY>ex:title RENAME title</PROPERTY>
+        <PROPERTY>ex:director RENAME director</PROPERTY>
+        <TYPE>TTL</TYPE>
+    </TARGET>
+    
+    <MLALGORITHM>
+        <NAME>wombat simple</NAME>
+        <TYPE>unsupervised</TYPE>
+        <!-- <TRAINING>trainingData.nt</TRAINING> -->
+        <PARAMETER> 
+            <NAME>max execution time in minutes</NAME>
+            <VALUE>60</VALUE>
+        </PARAMETER>
+    </MLALGORITHM>
+
+    <!-- <MLALGORITHM>
+        <NAME>eagle</NAME>
+        <TYPE>unsupervised</TYPE>
+        <PARAMETER>
+            <NAME>generations</NAME>
+            <VALUE>10</VALUE>
+        </PARAMETER>
+    </MLALGORITHM> -->
+    
+    <ACCEPTANCE>
+        <THRESHOLD>0.90</THRESHOLD>
+        <FILE>/data/KM_Movie_2col/accepted.nt</FILE>
+        <RELATION>owl:sameAs</RELATION>
+    </ACCEPTANCE>
+    
+    <REVIEW>
+        <THRESHOLD>0.85</THRESHOLD>
+        <FILE>/data/KM_Movie_2col/reviewme.nt</FILE>
+        <RELATION>owl:sameAs</RELATION>
+    </REVIEW>
+    
+    <EXECUTION>
+        <REWRITER>default</REWRITER>
+        <PLANNER>default</PLANNER>
+        <ENGINE>default</ENGINE>
+        <OPTIMIZATION_TIME>1000</OPTIMIZATION_TIME>
+        <EXPECTED_SELECTIVITY>0.5</EXPECTED_SELECTIVITY>
+    </EXECUTION>
+    
+    <OUTPUT>CSV</OUTPUT>
+</LIMES>

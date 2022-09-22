@@ -4,7 +4,6 @@ PREFIX ex: <http://example.org/>
 
 CONSTRUCT {
     ?URI    a    ex:Book;
-            #a    ex:Movie;
             ex:title    ?title;
 	        ex:author   ?author;
             ex:source   ?src;

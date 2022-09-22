@@ -63,14 +63,14 @@
     </MLALGORITHM> -->
     
     <ACCEPTANCE>
-        <THRESHOLD>0.9</THRESHOLD>
-        <FILE>/data/KM_Book_2col/gt.ttl</FILE>
+        <THRESHOLD>0.90</THRESHOLD>
+        <FILE>/data/KM_Book_2col/accepted.nt</FILE>
         <RELATION>owl:sameAs</RELATION>
     </ACCEPTANCE>
     
     <REVIEW>
-        <THRESHOLD>0.5</THRESHOLD>
-        <FILE>/data/KM_Book_2col/gt.ttl</FILE>
+        <THRESHOLD>0.85</THRESHOLD>
+        <FILE>/data/KM_Book_2col/reviewme.nt</FILE>
         <RELATION>owl:sameAs</RELATION>
     </REVIEW>
     

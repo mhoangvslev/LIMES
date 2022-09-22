@@ -1,0 +1,2256 @@
+@prefix ex:  <http://example.org/> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<Q2672175>  rdf:type  ex:Movie ;
+        ex:title     "Stand-In" ;
+        ex:director  "Tay Garnett" .
+
+<node71c8f5bb323649e646ed4e86fa15ecc_%3Chttp://www.imdb.com/title/tt0029605/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Stand-In" ;
+        ex:director  "Tay Garnett" ;
+        ex:source    "node71c8f5bb323649e646ed4e86fa15ecc_<http://www.imdb.com/title/tt0029605/>" .
+
+<Q2672175>  owl:sameAs  <node71c8f5bb323649e646ed4e86fa15ecc_%3Chttp://www.imdb.com/title/tt0029605/%3E> .
+
+<Q6961976>  rdf:type  ex:Movie ;
+        ex:title     "Namo Venkatesa" ;
+        ex:director  "Srinu Vaitla" .
+
+<node875fad29a4814802cd87ebf5e89c39c_%3Chttp://musicmazaa.com/telugu/lyrics/read/movie/Namo+Venkatesa/Namo+Venkatesa.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Namo Venkatesa" ;
+        ex:director  "http://musicmazaa.com/telugu/lyrics/read/movie/Namo+Venkatesa/Namo+Venkatesa.html/#Sreenu+Vytla" ;
+        ex:source    "node875fad29a4814802cd87ebf5e89c39c_<http://musicmazaa.com/telugu/lyrics/read/movie/Namo+Venkatesa/Namo+Venkatesa.html>" .
+
+<Q6961976>  owl:sameAs  <node875fad29a4814802cd87ebf5e89c39c_%3Chttp://musicmazaa.com/telugu/lyrics/read/movie/Namo+Venkatesa/Namo+Venkatesa.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Namo Venkatesa" ;
+        ex:director  "Srinu Vaitla" .
+
+<node7b99ffffae05ebd18d8186f43e8c17_%3Chttp://www.apunkachoice.com/titles/nam/namo-venkatesa/mid_34587/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Namo Venkatesa" ;
+        ex:director  "http://www.apunkachoice.com/names/sri/srinu_vytla/cid_305793/" ;
+        ex:source    "node7b99ffffae05ebd18d8186f43e8c17_<http://www.apunkachoice.com/titles/nam/namo-venkatesa/mid_34587/>" .
+
+<Q6961976>  owl:sameAs  <node7b99ffffae05ebd18d8186f43e8c17_%3Chttp://www.apunkachoice.com/titles/nam/namo-venkatesa/mid_34587/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Namo Venkatesa" ;
+        ex:director  "Srinu Vaitla" .
+
+<noded513ddea839b697fe9cdc679839d4f13_%3Chttp://musicmazaa.com/telugu/audiosongs/movie/Namo+Venkatesa.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Namo Venkatesa" ;
+        ex:director  "http://musicmazaa.com/telugu/audiosongs/movie/Namo+Venkatesa.html/#Sreenu+Vytla" ;
+        ex:source    "noded513ddea839b697fe9cdc679839d4f13_<http://musicmazaa.com/telugu/audiosongs/movie/Namo+Venkatesa.html>" .
+
+<Q6961976>  owl:sameAs  <noded513ddea839b697fe9cdc679839d4f13_%3Chttp://musicmazaa.com/telugu/audiosongs/movie/Namo+Venkatesa.html%3E> .
+
+<Q5129555>  rdf:type  ex:Movie ;
+        ex:title     "Claustrophobia" ;
+        ex:director  "Mark Tapio Kines" .
+
+<nodeab69c77799fc4caf1bd371a61aa74cc4_%3Chttp://www.imdb.com/title/tt0315411/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Claustrophobia" ;
+        ex:director  "Mark Tapio Kines" ;
+        ex:source    "nodeab69c77799fc4caf1bd371a61aa74cc4_<http://www.imdb.com/title/tt0315411/>" .
+
+<Q5129555>  owl:sameAs  <nodeab69c77799fc4caf1bd371a61aa74cc4_%3Chttp://www.imdb.com/title/tt0315411/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Claustrophobia" ;
+        ex:director  "Mark Tapio Kines" .
+
+<nodeb64ac581d16f457269a259274d71a6_%3Chttp://www.imdb.com/title/tt0315411/?ref_=nm_flmg_act_49%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Claustrophobia" ;
+        ex:director  "Mark Tapio Kines" ;
+        ex:source    "nodeb64ac581d16f457269a259274d71a6_<http://www.imdb.com/title/tt0315411/?ref_=nm_flmg_act_49>" .
+
+<Q5129555>  owl:sameAs  <nodeb64ac581d16f457269a259274d71a6_%3Chttp://www.imdb.com/title/tt0315411/?ref_=nm_flmg_act_49%3E> .
+
+<Q570221>  rdf:type  ex:Movie ;
+        ex:title     "Reuben, Reuben" ;
+        ex:director  "Robert Ellis Miller" .
+
+<node8946daadc451c26d5637ee2036964a54_%3Chttp://www.virtual-history.com/movie/film/6605/reuben-reuben%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Reuben, Reuben" ;
+        ex:director  "Robert Ellis Miller" ;
+        ex:source    "node8946daadc451c26d5637ee2036964a54_<http://www.virtual-history.com/movie/film/6605/reuben-reuben>" .
+
+<Q570221>  owl:sameAs  <node8946daadc451c26d5637ee2036964a54_%3Chttp://www.virtual-history.com/movie/film/6605/reuben-reuben%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Reuben, Reuben" ;
+        ex:director  "Robert Ellis Miller" .
+
+<nodec594ddc9c9593870e51ce6336f26e2c_%3Chttp://www.imdb.com/title/tt0084591/?ref_=tt_rec_tti%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Reuben, Reuben" ;
+        ex:director  "Robert Ellis Miller" ;
+        ex:source    "nodec594ddc9c9593870e51ce6336f26e2c_<http://www.imdb.com/title/tt0084591/?ref_=tt_rec_tti>" .
+
+<Q570221>  owl:sameAs  <nodec594ddc9c9593870e51ce6336f26e2c_%3Chttp://www.imdb.com/title/tt0084591/?ref_=tt_rec_tti%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Reuben, Reuben" ;
+        ex:director  "Robert Ellis Miller" .
+
+<node21fbf3672f5fbdfe43caf6f5548ec5b_%3Chttp://www.imdb.com/title/tt0084591/externalsites%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Reuben, Reuben (1983)" ;
+        ex:source  "node21fbf3672f5fbdfe43caf6f5548ec5b_<http://www.imdb.com/title/tt0084591/externalsites>" .
+
+<Q570221>  owl:sameAs  <node21fbf3672f5fbdfe43caf6f5548ec5b_%3Chttp://www.imdb.com/title/tt0084591/externalsites%3E> .
+
+<Q3502702>  rdf:type  ex:Movie ;
+        ex:title     "Suburban Secrets" ;
+        ex:director  "Joseph W. Sarno" .
+
+<node6f8be76cf18361c74167b99bb8f867_%3Chttp://vodly.to/watch-457560-Suburban-Secrets%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Suburban Secrets" ;
+        ex:source  "node6f8be76cf18361c74167b99bb8f867_<http://vodly.to/watch-457560-Suburban-Secrets>" .
+
+<Q3502702>  owl:sameAs  <node6f8be76cf18361c74167b99bb8f867_%3Chttp://vodly.to/watch-457560-Suburban-Secrets%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Suburban Secrets" ;
+        ex:director  "Joseph W. Sarno" .
+
+<node2b83e1db198de7c74af6b6ad12b46e_%3Chttp://www.imdb.com/title/tt0406951/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Suburban Secrets" ;
+        ex:director  "Joseph W. Sarno" ;
+        ex:source    "node2b83e1db198de7c74af6b6ad12b46e_<http://www.imdb.com/title/tt0406951/>" .
+
+<Q3502702>  owl:sameAs  <node2b83e1db198de7c74af6b6ad12b46e_%3Chttp://www.imdb.com/title/tt0406951/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Suburban Secrets" ;
+        ex:director  "Joseph W. Sarno" .
+
+<node113b54a09776a8bba97d8134fcec31e_%3Chttp://www.hotmovies.com/video/137530/Suburban-Secrets-Episode-5/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Suburban Secrets Episode 5" ;
+        ex:source  "node113b54a09776a8bba97d8134fcec31e_<http://www.hotmovies.com/video/137530/Suburban-Secrets-Episode-5/>" .
+
+<Q3502702>  owl:sameAs  <node113b54a09776a8bba97d8134fcec31e_%3Chttp://www.hotmovies.com/video/137530/Suburban-Secrets-Episode-5/%3E> .
+
+<Q1294711>  rdf:type  ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" .
+
+<node86e1b59c647b546f9efebac2d41b65_%3Chttp://www.imdb.com/title/tt0027690/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" ;
+        ex:source    "node86e1b59c647b546f9efebac2d41b65_<http://www.imdb.com/title/tt0027690/>" .
+
+<Q1294711>  owl:sameAs  <node86e1b59c647b546f9efebac2d41b65_%3Chttp://www.imdb.com/title/tt0027690/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" .
+
+<nodefdf5bc2ca2682ede6d0bc375b15bdf5_%3Chttp://www.nytimes.com/movies/movie/20387/The-Gorgeous-Hussy/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" ;
+        ex:source    "nodefdf5bc2ca2682ede6d0bc375b15bdf5_<http://www.nytimes.com/movies/movie/20387/The-Gorgeous-Hussy/overview>" .
+
+<Q1294711>  owl:sameAs  <nodefdf5bc2ca2682ede6d0bc375b15bdf5_%3Chttp://www.nytimes.com/movies/movie/20387/The-Gorgeous-Hussy/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" .
+
+<nodec7d878ef592d93e1a0132abbcec398_%3Chttp://www.hollywood.com/movies/5055593/the-gorgeous-hussy%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" ;
+        ex:source    "nodec7d878ef592d93e1a0132abbcec398_<http://www.hollywood.com/movies/5055593/the-gorgeous-hussy>" .
+
+<Q1294711>  owl:sameAs  <nodec7d878ef592d93e1a0132abbcec398_%3Chttp://www.hollywood.com/movies/5055593/the-gorgeous-hussy%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" .
+
+<node39a7c94c76430b8f46c26250414bc9_%3Chttp://www.movieposterdb.com/movie/0027690/The-Gorgeous-Hussy.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" ;
+        ex:source    "node39a7c94c76430b8f46c26250414bc9_<http://www.movieposterdb.com/movie/0027690/The-Gorgeous-Hussy.html>" .
+
+<Q1294711>  owl:sameAs  <node39a7c94c76430b8f46c26250414bc9_%3Chttp://www.movieposterdb.com/movie/0027690/The-Gorgeous-Hussy.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" .
+
+<node602c11e99f618f842788dddea3a1e22c_%3Chttp://www.themoviedb.org/movie/112284-the-gorgeous-hussy%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gorgeous Hussy" ;
+        ex:director  "Clarence Brown" ;
+        ex:source    "node602c11e99f618f842788dddea3a1e22c_<http://www.themoviedb.org/movie/112284-the-gorgeous-hussy>" .
+
+<Q1294711>  owl:sameAs  <node602c11e99f618f842788dddea3a1e22c_%3Chttp://www.themoviedb.org/movie/112284-the-gorgeous-hussy%3E> .
+
+<Q632718>  rdf:type  ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node5a9c7c7b19d68dd389e41c46710ce_%3Chttp://www.movieposterdb.com/movie/0039286/Crossfire.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node5a9c7c7b19d68dd389e41c46710ce_<http://www.movieposterdb.com/movie/0039286/Crossfire.html>" .
+
+<Q632718>  owl:sameAs  <node5a9c7c7b19d68dd389e41c46710ce_%3Chttp://www.movieposterdb.com/movie/0039286/Crossfire.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node8216f98b6969a784c818b6b3cc982a_%3Chttp://www.movieposterdb.com/poster/fe610e45%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node8216f98b6969a784c818b6b3cc982a_<http://www.movieposterdb.com/poster/fe610e45>" .
+
+<Q632718>  owl:sameAs  <node8216f98b6969a784c818b6b3cc982a_%3Chttp://www.movieposterdb.com/poster/fe610e45%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodece88e3f851deccc81755d6a64196d33e_%3Chttp://www.movieposterdb.com/poster/241c8ef9%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "nodece88e3f851deccc81755d6a64196d33e_<http://www.movieposterdb.com/poster/241c8ef9>" .
+
+<Q632718>  owl:sameAs  <nodece88e3f851deccc81755d6a64196d33e_%3Chttp://www.movieposterdb.com/poster/241c8ef9%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node8d1e9ade81f35651709c8f86239b8e41_%3Chttp://www.movieposterdb.com/poster/bab2cd1e%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node8d1e9ade81f35651709c8f86239b8e41_<http://www.movieposterdb.com/poster/bab2cd1e>" .
+
+<Q632718>  owl:sameAs  <node8d1e9ade81f35651709c8f86239b8e41_%3Chttp://www.movieposterdb.com/poster/bab2cd1e%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node752a29d48c447c22a48eab3cf1ca4edf_%3Chttp://www.movieposterdb.com/poster/1b92b9c6%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node752a29d48c447c22a48eab3cf1ca4edf_<http://www.movieposterdb.com/poster/1b92b9c6>" .
+
+<Q632718>  owl:sameAs  <node752a29d48c447c22a48eab3cf1ca4edf_%3Chttp://www.movieposterdb.com/poster/1b92b9c6%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodeedfa4376d1c9ab73e8bed38fc555396_%3Chttp://www.movieposterdb.com/poster/828b83cb%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "nodeedfa4376d1c9ab73e8bed38fc555396_<http://www.movieposterdb.com/poster/828b83cb>" .
+
+<Q632718>  owl:sameAs  <nodeedfa4376d1c9ab73e8bed38fc555396_%3Chttp://www.movieposterdb.com/poster/828b83cb%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node90ada37718dd94cc2612d632b3f5d362_%3Chttp://www.movieposterdb.com/poster/55d4ba87%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node90ada37718dd94cc2612d632b3f5d362_<http://www.movieposterdb.com/poster/55d4ba87>" .
+
+<Q632718>  owl:sameAs  <node90ada37718dd94cc2612d632b3f5d362_%3Chttp://www.movieposterdb.com/poster/55d4ba87%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodec0552769f09748eab92d6e2c88da82cd_%3Chttp://www.zap2it.com/movie/crossfire/MV000053050000?aid=zap2it%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Crossfire" ;
+        ex:source  "nodec0552769f09748eab92d6e2c88da82cd_<http://www.zap2it.com/movie/crossfire/MV000053050000?aid=zap2it>" .
+
+<Q632718>  owl:sameAs  <nodec0552769f09748eab92d6e2c88da82cd_%3Chttp://www.zap2it.com/movie/crossfire/MV000053050000?aid=zap2it%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node60ecc7311ab6195b5305be0b32bb653_%3Chttp://www.movieposterdb.com/poster/f26f80ab%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node60ecc7311ab6195b5305be0b32bb653_<http://www.movieposterdb.com/poster/f26f80ab>" .
+
+<Q632718>  owl:sameAs  <node60ecc7311ab6195b5305be0b32bb653_%3Chttp://www.movieposterdb.com/poster/f26f80ab%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodec9d64a9261c872126eae5801552c6a_%3Chttp://www.movieposterdb.com/poster/de313980%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "nodec9d64a9261c872126eae5801552c6a_<http://www.movieposterdb.com/poster/de313980>" .
+
+<Q632718>  owl:sameAs  <nodec9d64a9261c872126eae5801552c6a_%3Chttp://www.movieposterdb.com/poster/de313980%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node3f217cf1cd86df79dd3f324db4e6ee35_%3Chttp://www.movieposterdb.com/poster/cfda289d%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node3f217cf1cd86df79dd3f324db4e6ee35_<http://www.movieposterdb.com/poster/cfda289d>" .
+
+<Q632718>  owl:sameAs  <node3f217cf1cd86df79dd3f324db4e6ee35_%3Chttp://www.movieposterdb.com/poster/cfda289d%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node7c2c882b412ff2889adc79e58bcc748_%3Chttp://www.movieposterdb.com/poster/bd52e766%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node7c2c882b412ff2889adc79e58bcc748_<http://www.movieposterdb.com/poster/bd52e766>" .
+
+<Q632718>  owl:sameAs  <node7c2c882b412ff2889adc79e58bcc748_%3Chttp://www.movieposterdb.com/poster/bd52e766%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node43e46dbae13da8cc1ae32130f634bfff_%3Chttp://www.movieposterdb.com/poster/e41455de%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node43e46dbae13da8cc1ae32130f634bfff_<http://www.movieposterdb.com/poster/e41455de>" .
+
+<Q632718>  owl:sameAs  <node43e46dbae13da8cc1ae32130f634bfff_%3Chttp://www.movieposterdb.com/poster/e41455de%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node6bda0e292173bd650cdafa7440ef8c_%3Chttp://www.movieposterdb.com/poster/6b62e8b5%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node6bda0e292173bd650cdafa7440ef8c_<http://www.movieposterdb.com/poster/6b62e8b5>" .
+
+<Q632718>  owl:sameAs  <node6bda0e292173bd650cdafa7440ef8c_%3Chttp://www.movieposterdb.com/poster/6b62e8b5%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodef163326638b79a72daa8bdafb075c1f6_%3Chttp://www.movieposterdb.com/poster/24c9a1a3%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "nodef163326638b79a72daa8bdafb075c1f6_<http://www.movieposterdb.com/poster/24c9a1a3>" .
+
+<Q632718>  owl:sameAs  <nodef163326638b79a72daa8bdafb075c1f6_%3Chttp://www.movieposterdb.com/poster/24c9a1a3%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node4931daa59fd641398aa5d3746d90686_%3Chttp://www.movieposterdb.com/poster/6c912820%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node4931daa59fd641398aa5d3746d90686_<http://www.movieposterdb.com/poster/6c912820>" .
+
+<Q632718>  owl:sameAs  <node4931daa59fd641398aa5d3746d90686_%3Chttp://www.movieposterdb.com/poster/6c912820%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node83c21285d05377cc571c5ad8c2ad69_%3Chttp://www.movieposterdb.com/poster/f6d05a2a%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node83c21285d05377cc571c5ad8c2ad69_<http://www.movieposterdb.com/poster/f6d05a2a>" .
+
+<Q632718>  owl:sameAs  <node83c21285d05377cc571c5ad8c2ad69_%3Chttp://www.movieposterdb.com/poster/f6d05a2a%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node1478905d731be27dd53589d7a9a0c2a2_%3Chttp://www.movieposterdb.com/poster/8c2fd932%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node1478905d731be27dd53589d7a9a0c2a2_<http://www.movieposterdb.com/poster/8c2fd932>" .
+
+<Q632718>  owl:sameAs  <node1478905d731be27dd53589d7a9a0c2a2_%3Chttp://www.movieposterdb.com/poster/8c2fd932%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node7874bbe1abfc082a64976479d7b2e67_%3Chttp://www.movieposterdb.com/poster/5aca4885%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node7874bbe1abfc082a64976479d7b2e67_<http://www.movieposterdb.com/poster/5aca4885>" .
+
+<Q632718>  owl:sameAs  <node7874bbe1abfc082a64976479d7b2e67_%3Chttp://www.movieposterdb.com/poster/5aca4885%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodebc7bf3fe1dbc7c48c6b014c680aff0_%3Chttp://www.movieposterdb.com/poster/e72d18f2%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "nodebc7bf3fe1dbc7c48c6b014c680aff0_<http://www.movieposterdb.com/poster/e72d18f2>" .
+
+<Q632718>  owl:sameAs  <nodebc7bf3fe1dbc7c48c6b014c680aff0_%3Chttp://www.movieposterdb.com/poster/e72d18f2%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node82d4d1d293a43ec3770ade2d07dd8a3_%3Chttp://www.movieposterdb.com/poster/ab5ae547%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node82d4d1d293a43ec3770ade2d07dd8a3_<http://www.movieposterdb.com/poster/ab5ae547>" .
+
+<Q632718>  owl:sameAs  <node82d4d1d293a43ec3770ade2d07dd8a3_%3Chttp://www.movieposterdb.com/poster/ab5ae547%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node8c2748dc8a80808a9c17677a1aac379_%3Chttp://www.movieposterdb.com/poster/151f6110%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node8c2748dc8a80808a9c17677a1aac379_<http://www.movieposterdb.com/poster/151f6110>" .
+
+<Q632718>  owl:sameAs  <node8c2748dc8a80808a9c17677a1aac379_%3Chttp://www.movieposterdb.com/poster/151f6110%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodefc8e62613ac62a525a8f2b1e98138f6_%3Chttp://www.imdb.com/title/tt0039286/plotsummary%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Crossfire (1947)" ;
+        ex:source  "nodefc8e62613ac62a525a8f2b1e98138f6_<http://www.imdb.com/title/tt0039286/plotsummary>" .
+
+<Q632718>  owl:sameAs  <nodefc8e62613ac62a525a8f2b1e98138f6_%3Chttp://www.imdb.com/title/tt0039286/plotsummary%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<nodece891ac9cda8c271218a9584b36967_%3Chttp://www.listal.com/movie/crossfire%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Crossfire (1947)" ;
+        ex:source  "nodece891ac9cda8c271218a9584b36967_<http://www.listal.com/movie/crossfire>" .
+
+<Q632718>  owl:sameAs  <nodece891ac9cda8c271218a9584b36967_%3Chttp://www.listal.com/movie/crossfire%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Crossfire" ;
+        ex:director  "Edward Dmytryk" .
+
+<node88677149b7d55286ec388d8e48633d5a_%3Chttp://www.videofutur.fr/viewTitleDetails.do?titreId=102587%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Feux crois�s(Crossfire)deEdward Dmytryk" ;
+        ex:director  "Edward Dmytryk" ;
+        ex:source    "node88677149b7d55286ec388d8e48633d5a_<http://www.videofutur.fr/viewTitleDetails.do?titreId=102587>" .
+
+<Q632718>  owl:sameAs  <node88677149b7d55286ec388d8e48633d5a_%3Chttp://www.videofutur.fr/viewTitleDetails.do?titreId=102587%3E> .
+
+<Q5372517>  rdf:type  ex:Movie ;
+        ex:title     "Emir" ;
+        ex:director  "Chito S. Roño" .
+
+<noded83a5ad3c238befec88e365c3f70fe_%3Chttp://www.filmlerseyret.com/izle/435/besinci-emir-olum%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Beşinci Emir Ölüm" ;
+        ex:source  "noded83a5ad3c238befec88e365c3f70fe_<http://www.filmlerseyret.com/izle/435/besinci-emir-olum>" .
+
+<Q5372517>  owl:sameAs  <noded83a5ad3c238befec88e365c3f70fe_%3Chttp://www.filmlerseyret.com/izle/435/besinci-emir-olum%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Emir" ;
+        ex:director  "Chito S. Roño" .
+
+<nodee0519f6c1c9f85c94c4d9a0754ae5ba_%3Chttp://www.bigscreen.com/NowShowing.php?movie=79990&view=media%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Emir Kusturica Farewell (L'affaire Farewell)" ;
+        ex:source  "nodee0519f6c1c9f85c94c4d9a0754ae5ba_<http://www.bigscreen.com/NowShowing.php?movie=79990&view=media>" .
+
+<Q5372517>  owl:sameAs  <nodee0519f6c1c9f85c94c4d9a0754ae5ba_%3Chttp://www.bigscreen.com/NowShowing.php?movie=79990&view=media%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Emir" ;
+        ex:director  "Chito S. Roño" .
+
+<node86505538a022e28364b9ff60edfbf9cf_%3Chttp://www.acunn.com/sinema/besinci-emir-olum/379686%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "El quinto mandamiento Beşinci Emir: Ölüm" ;
+        ex:director  "Rafael Lara" ;
+        ex:source    "node86505538a022e28364b9ff60edfbf9cf_<http://www.acunn.com/sinema/besinci-emir-olum/379686>" .
+
+<Q5372517>  owl:sameAs  <node86505538a022e28364b9ff60edfbf9cf_%3Chttp://www.acunn.com/sinema/besinci-emir-olum/379686%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Emir" ;
+        ex:director  "Chito S. Roño" .
+
+<nodef3a17ba93db3da8a223381343c692a_%3Chttp://www.filmupdate.altervista.org/13/14571-il-segreto-anticipazioni-27-agosto-2013-pepa-in-carcere-racconta-la-verit-ad-angustias.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "La Foresta di Ghiaccio - Clip esclusiva backstage - Emir Kusturica racconta Secondo" ;
+        ex:source  "nodef3a17ba93db3da8a223381343c692a_<http://www.filmupdate.altervista.org/13/14571-il-segreto-anticipazioni-27-agosto-2013-pepa-in-carcere-racconta-la-verit-ad-angustias.html>" .
+
+<Q5372517>  owl:sameAs  <nodef3a17ba93db3da8a223381343c692a_%3Chttp://www.filmupdate.altervista.org/13/14571-il-segreto-anticipazioni-27-agosto-2013-pepa-in-carcere-racconta-la-verit-ad-angustias.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Emir" ;
+        ex:director  "Chito S. Roño" .
+
+<node83eec7b86753fcd98576e6657d7a88d_%3Chttp://www.commeaucinema.com/film/7-jours-a-la-havane-drame,224339%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Laurent Cantet Pablo Trapero Leonardo Padura Juan Carlos Tabio Julio Medem Daniel Brï¿½hl Benicio Del Toro 7 Jours ï¿½ la Havane Elia Suleiman Gaspar Noï¿½ Emir Kusturica" ;
+        ex:source  "node83eec7b86753fcd98576e6657d7a88d_<http://www.commeaucinema.com/film/7-jours-a-la-havane-drame,224339>" .
+
+<Q5372517>  owl:sameAs  <node83eec7b86753fcd98576e6657d7a88d_%3Chttp://www.commeaucinema.com/film/7-jours-a-la-havane-drame,224339%3E> .
+
+<Q4832493>  rdf:type  ex:Movie ;
+        ex:title     "Azhagar Malai" ;
+        ex:director  "S. P. Rajkumar" .
+
+<node69b5ace81b75dda26f194bdc46b169_%3Chttp://spicyonion.com/movie/azhagar-malai/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "RK Sona Nepolian Azhagar Malai Banu Vadivelu" ;
+        ex:director  "Rajakumar" ;
+        ex:source    "node69b5ace81b75dda26f194bdc46b169_<http://spicyonion.com/movie/azhagar-malai/>" .
+
+<Q4832493>  owl:sameAs  <node69b5ace81b75dda26f194bdc46b169_%3Chttp://spicyonion.com/movie/azhagar-malai/%3E> .
+
+<Q4127274>  rdf:type  ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<node2dc93c68e5f241d32f9322bf841ceef3_%3Chttp://www.themoviedb.org/movie/12818-everybody-wants-to-be-italian%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" ;
+        ex:source    "node2dc93c68e5f241d32f9322bf841ceef3_<http://www.themoviedb.org/movie/12818-everybody-wants-to-be-italian>" .
+
+<Q4127274>  owl:sameAs  <node2dc93c68e5f241d32f9322bf841ceef3_%3Chttp://www.themoviedb.org/movie/12818-everybody-wants-to-be-italian%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<node2ff2303e82ada31080a0643cb1a552b8_%3Chttp://www.zap2it.com/movie/everybody-wants-to-be-italian/MV002082250000?aid=zap2it%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Everybody Wants to Be Italian" ;
+        ex:source  "node2ff2303e82ada31080a0643cb1a552b8_<http://www.zap2it.com/movie/everybody-wants-to-be-italian/MV002082250000?aid=zap2it>" .
+
+<Q4127274>  owl:sameAs  <node2ff2303e82ada31080a0643cb1a552b8_%3Chttp://www.zap2it.com/movie/everybody-wants-to-be-italian/MV002082250000?aid=zap2it%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<node6b4add6dac08fa9b6edebc5eb8a72_%3Chttp://www.traileraddict.com/everybody-wants-be-italian/lost-cat%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Everybody Wants to Be Italian" ;
+        ex:source  "node6b4add6dac08fa9b6edebc5eb8a72_<http://www.traileraddict.com/everybody-wants-be-italian/lost-cat>" .
+
+<Q4127274>  owl:sameAs  <node6b4add6dac08fa9b6edebc5eb8a72_%3Chttp://www.traileraddict.com/everybody-wants-be-italian/lost-cat%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<node8d3918e7448f8b358327cbb1a888cfe9_%3Chttp://www.fandango.com/everybodywantstobeitalian_111007/moviephotosposters?ImageId=226954%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Everybody Wants to Be Italian Photos" ;
+        ex:source  "node8d3918e7448f8b358327cbb1a888cfe9_<http://www.fandango.com/everybodywantstobeitalian_111007/moviephotosposters?ImageId=226954>" .
+
+<Q4127274>  owl:sameAs  <node8d3918e7448f8b358327cbb1a888cfe9_%3Chttp://www.fandango.com/everybodywantstobeitalian_111007/moviephotosposters?ImageId=226954%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<noded94b47a1b837db69f3baecd434a6b98b_%3Chttp://www.fandango.com/everybodywantstobeitalian_111007/moviephotosposters?ImageId=226954%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" ;
+        ex:source    "noded94b47a1b837db69f3baecd434a6b98b_<http://www.fandango.com/everybodywantstobeitalian_111007/moviephotosposters?ImageId=226954>" .
+
+<Q4127274>  owl:sameAs  <noded94b47a1b837db69f3baecd434a6b98b_%3Chttp://www.fandango.com/everybodywantstobeitalian_111007/moviephotosposters?ImageId=226954%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<nodeffd3d54f9dfcb2b7f1348d89476fec_%3Chttp://www.traileraddict.com/everybody-wants-be-italian%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" ;
+        ex:source    "nodeffd3d54f9dfcb2b7f1348d89476fec_<http://www.traileraddict.com/everybody-wants-be-italian>" .
+
+<Q4127274>  owl:sameAs  <nodeffd3d54f9dfcb2b7f1348d89476fec_%3Chttp://www.traileraddict.com/everybody-wants-be-italian%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" .
+
+<nodeff9d99934da98c575f7364a987d6f049_%3Chttp://www.traileraddict.com/everybody-wants-be-italian%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Everybody Wants to Be Italian" ;
+        ex:director  "Jason Todd Ipson" ;
+        ex:source    "nodeff9d99934da98c575f7364a987d6f049_<http://www.traileraddict.com/everybody-wants-be-italian>" .
+
+<Q4127274>  owl:sameAs  <nodeff9d99934da98c575f7364a987d6f049_%3Chttp://www.traileraddict.com/everybody-wants-be-italian%3E> .
+
+<Q7929319>  rdf:type  ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" .
+
+<node4884c2fdc5342a19796de42de1d93b92_%3Chttp://www.imdb.com/title/tt0111625/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" ;
+        ex:source    "node4884c2fdc5342a19796de42de1d93b92_<http://www.imdb.com/title/tt0111625/>" .
+
+<Q7929319>  owl:sameAs  <node4884c2fdc5342a19796de42de1d93b92_%3Chttp://www.imdb.com/title/tt0111625/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" .
+
+<node93dce631fff1a5ee8bf392b86ee2aae_%3Chttp://www.apunkachoice.com/titles/vij/vijaypath/mid_17916/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "http://www.apunkachoice.com/names/far/farogh_siddique/cid_181528/" ;
+        ex:source    "node93dce631fff1a5ee8bf392b86ee2aae_<http://www.apunkachoice.com/titles/vij/vijaypath/mid_17916/>" .
+
+<Q7929319>  owl:sameAs  <node93dce631fff1a5ee8bf392b86ee2aae_%3Chttp://www.apunkachoice.com/titles/vij/vijaypath/mid_17916/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" .
+
+<node6a12c4a1e15b95179e3ab7de55f4af_%3Chttp://www.apunkachoice.com/titles/vij/vijaypath/mid_17916/fanclub/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "http://www.apunkachoice.com/names/far/farogh_siddique/cid_181528/" ;
+        ex:source    "node6a12c4a1e15b95179e3ab7de55f4af_<http://www.apunkachoice.com/titles/vij/vijaypath/mid_17916/fanclub/>" .
+
+<Q7929319>  owl:sameAs  <node6a12c4a1e15b95179e3ab7de55f4af_%3Chttp://www.apunkachoice.com/titles/vij/vijaypath/mid_17916/fanclub/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" .
+
+<node70a39426e4ae34753fec44656f9ff0_%3Chttp://www.themoviedb.org/movie/103800-vijaypath%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" ;
+        ex:source    "node70a39426e4ae34753fec44656f9ff0_<http://www.themoviedb.org/movie/103800-vijaypath>" .
+
+<Q7929319>  owl:sameAs  <node70a39426e4ae34753fec44656f9ff0_%3Chttp://www.themoviedb.org/movie/103800-vijaypath%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Vijaypath" ;
+        ex:director  "Farogh Siddique" .
+
+<node7dacac7cbd0c03174b2cd697e7116d2_%3Chttp://twomovies.us/watch_movie/Vijaypath%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Watch Vijaypath (1994) movie Online" ;
+        ex:director  "http://twomovies.us/actor_director/Farogh_Siddique" ;
+        ex:source    "node7dacac7cbd0c03174b2cd697e7116d2_<http://twomovies.us/watch_movie/Vijaypath>" .
+
+<Q7929319>  owl:sameAs  <node7dacac7cbd0c03174b2cd697e7116d2_%3Chttp://twomovies.us/watch_movie/Vijaypath%3E> .
+
+<Q5352401>  rdf:type  ex:Movie ;
+        ex:title     "El crack" ;
+        ex:director  "José Luis Garci" .
+
+<nodea4e4940779f438b84bae2b9d5aa6d7_%3Chttp://www.imdb.com/title/tt0082210/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "El crack" ;
+        ex:director  "José Luis Garci" ;
+        ex:source    "nodea4e4940779f438b84bae2b9d5aa6d7_<http://www.imdb.com/title/tt0082210/>" .
+
+<Q5352401>  owl:sameAs  <nodea4e4940779f438b84bae2b9d5aa6d7_%3Chttp://www.imdb.com/title/tt0082210/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "El crack" ;
+        ex:director  "José Luis Garci" .
+
+<node1bddedfa437e602397cc8779e6f8673e_%3Chttp://www.imdb.com/title/tt0082210/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "El crack" ;
+        ex:director  "José Luis Garci" ;
+        ex:source    "node1bddedfa437e602397cc8779e6f8673e_<http://www.imdb.com/title/tt0082210/>" .
+
+<Q5352401>  owl:sameAs  <node1bddedfa437e602397cc8779e6f8673e_%3Chttp://www.imdb.com/title/tt0082210/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "El crack" ;
+        ex:director  "José Luis Garci" .
+
+<node184dd975d92cbb8da56c51e2c4fe2dc1_%3Chttp://www.fulltv.com.ar/peliculas/el-crack.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "El crack" ;
+        ex:director  "José Martínez Suárez" ;
+        ex:source    "node184dd975d92cbb8da56c51e2c4fe2dc1_<http://www.fulltv.com.ar/peliculas/el-crack.html>" .
+
+<Q5352401>  owl:sameAs  <node184dd975d92cbb8da56c51e2c4fe2dc1_%3Chttp://www.fulltv.com.ar/peliculas/el-crack.html%3E> .
+
+<Q6358749>  rdf:type  ex:Movie ;
+        ex:title     "Kamli" ;
+        ex:director  "K. N. T. Sastry" .
+
+<node4ac2ca84d9e26b9c5723511e84d4684_%3Chttp://musicmazaa.com/telugu/audiosongs/movie/Kamli.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Kamli" ;
+        ex:director  "http://musicmazaa.com/telugu/audiosongs/movie/Kamli.html/#K.N.T.+Sastry" ;
+        ex:source    "node4ac2ca84d9e26b9c5723511e84d4684_<http://musicmazaa.com/telugu/audiosongs/movie/Kamli.html>" .
+
+<Q6358749>  owl:sameAs  <node4ac2ca84d9e26b9c5723511e84d4684_%3Chttp://musicmazaa.com/telugu/audiosongs/movie/Kamli.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Kamli" ;
+        ex:director  "K. N. T. Sastry" .
+
+<nodeb6f79ecfea126c621b6ec35ff6e769_%3Chttp://www.lyricsmasti.com/song/3992/get_lyrics_of_Kamli-Kamli.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Kamli Kamli" ;
+        ex:director  "Aadesh Shrivastava" ;
+        ex:source    "nodeb6f79ecfea126c621b6ec35ff6e769_<http://www.lyricsmasti.com/song/3992/get_lyrics_of_Kamli-Kamli.html>" .
+
+<Q6358749>  owl:sameAs  <nodeb6f79ecfea126c621b6ec35ff6e769_%3Chttp://www.lyricsmasti.com/song/3992/get_lyrics_of_Kamli-Kamli.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Kamli" ;
+        ex:director  "K. N. T. Sastry" .
+
+<noded552b75759c84abb4293b3506042fe1_%3Chttp://musicmazaa.com/punjabi/audiosongs/movie/Kamli+Hoyee.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Kamli Hoyee" ;
+        ex:source  "noded552b75759c84abb4293b3506042fe1_<http://musicmazaa.com/punjabi/audiosongs/movie/Kamli+Hoyee.html>" .
+
+<Q6358749>  owl:sameAs  <noded552b75759c84abb4293b3506042fe1_%3Chttp://musicmazaa.com/punjabi/audiosongs/movie/Kamli+Hoyee.html%3E> .
+
+<Q4921036>  rdf:type  ex:Movie ;
+        ex:title     "Black Irish" ;
+        ex:director  "Brad Gann" .
+
+<node2d3c2b761e73c36ffb1471381f6cdd_%3Chttp://www.nytimes.com/movies/movie/388121/Black-Irish/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Black Irish" ;
+        ex:director  "Brad Gann" ;
+        ex:source    "node2d3c2b761e73c36ffb1471381f6cdd_<http://www.nytimes.com/movies/movie/388121/Black-Irish/overview>" .
+
+<Q4921036>  owl:sameAs  <node2d3c2b761e73c36ffb1471381f6cdd_%3Chttp://www.nytimes.com/movies/movie/388121/Black-Irish/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Black Irish" ;
+        ex:director  "Brad Gann" .
+
+<node999e6cfece1af6244e97ed4813805a1d_%3Chttp://www.traileraddict.com/black-irish%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Black Irish" ;
+        ex:director  "Brad Gann" ;
+        ex:source    "node999e6cfece1af6244e97ed4813805a1d_<http://www.traileraddict.com/black-irish>" .
+
+<Q4921036>  owl:sameAs  <node999e6cfece1af6244e97ed4813805a1d_%3Chttp://www.traileraddict.com/black-irish%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Black Irish" ;
+        ex:director  "Brad Gann" .
+
+<nodeefabc3baca78e4377c342a59e71924c_%3Chttp://www.traileraddict.com/black-irish/trailer%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Black Irish" ;
+        ex:source  "nodeefabc3baca78e4377c342a59e71924c_<http://www.traileraddict.com/black-irish/trailer>" .
+
+<Q4921036>  owl:sameAs  <nodeefabc3baca78e4377c342a59e71924c_%3Chttp://www.traileraddict.com/black-irish/trailer%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Black Irish" ;
+        ex:director  "Brad Gann" .
+
+<node7830f7319e61128b3d1955a1ed28530_%3Chttp://www.locatetv.com/movie/black-irish/994720%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Black Irish - Movie (2006) | LocateTV" ;
+        ex:source  "node7830f7319e61128b3d1955a1ed28530_<http://www.locatetv.com/movie/black-irish/994720>" .
+
+<Q4921036>  owl:sameAs  <node7830f7319e61128b3d1955a1ed28530_%3Chttp://www.locatetv.com/movie/black-irish/994720%3E> .
+
+<Q7758894>  rdf:type  ex:Movie ;
+        ex:title     "The Quarrel" ;
+        ex:director  "Eli Cohen" .
+
+<node1234362bac14119f72a61b603210e272_%3Chttp://www.movieposterdb.com/movie/0105200/The-Quarrel.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Quarrel" ;
+        ex:source  "node1234362bac14119f72a61b603210e272_<http://www.movieposterdb.com/movie/0105200/The-Quarrel.html>" .
+
+<Q7758894>  owl:sameAs  <node1234362bac14119f72a61b603210e272_%3Chttp://www.movieposterdb.com/movie/0105200/The-Quarrel.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Quarrel" ;
+        ex:director  "Eli Cohen" .
+
+<node1aaaf23b1ced0954ab911cd49137114_%3Chttp://www.nytimes.com/movies/movie/119277/The-Quarrel/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Quarrel" ;
+        ex:director  "Eli Cohen" ;
+        ex:source    "node1aaaf23b1ced0954ab911cd49137114_<http://www.nytimes.com/movies/movie/119277/The-Quarrel/overview>" .
+
+<Q7758894>  owl:sameAs  <node1aaaf23b1ced0954ab911cd49137114_%3Chttp://www.nytimes.com/movies/movie/119277/The-Quarrel/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Quarrel" ;
+        ex:director  "Eli Cohen" .
+
+<node25332c717a9a9e5dcc41f1112adb5dce_%3Chttp://www.imdb.com/title/tt0105200/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Quarrel" ;
+        ex:director  "Eli Cohen" ;
+        ex:source    "node25332c717a9a9e5dcc41f1112adb5dce_<http://www.imdb.com/title/tt0105200/>" .
+
+<Q7758894>  owl:sameAs  <node25332c717a9a9e5dcc41f1112adb5dce_%3Chttp://www.imdb.com/title/tt0105200/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Quarrel" ;
+        ex:director  "Eli Cohen" .
+
+<node90aa7d1d55fa2d6746e876c1328652_%3Chttp://www.movierevie.ws/movies/1097424/The-Quarrel.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Quarrel Movie Review 1993" ;
+        ex:source  "node90aa7d1d55fa2d6746e876c1328652_<http://www.movierevie.ws/movies/1097424/The-Quarrel.html>" .
+
+<Q7758894>  owl:sameAs  <node90aa7d1d55fa2d6746e876c1328652_%3Chttp://www.movierevie.ws/movies/1097424/The-Quarrel.html%3E> .
+
+<Q5227709>  rdf:type  ex:Movie ;
+        ex:title     "Zatoichi on the Road" ;
+        ex:director  "Kimiyoshi Yasuda" .
+
+<nodeed82197532d0ff372d5bfbbc3a31548_%3Chttp://www.imdb.com/title/tt0057714/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "\"Zatôichi kenka-tabi\" (original title) Zatoichi on the Road" ;
+        ex:director  "Kimiyoshi Yasuda" ;
+        ex:source    "nodeed82197532d0ff372d5bfbbc3a31548_<http://www.imdb.com/title/tt0057714/>" .
+
+<Q5227709>  owl:sameAs  <nodeed82197532d0ff372d5bfbbc3a31548_%3Chttp://www.imdb.com/title/tt0057714/%3E> .
+
+<Q16774884>  rdf:type  ex:Movie ;
+        ex:title  "Dead of Winter" .
+
+<node2d95cd9c3b585a7c5f8c48607b595aa2_%3Chttp://www.imdb.com/title/tt0092842/?ref_=nm_flmg_msc_8%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node2d95cd9c3b585a7c5f8c48607b595aa2_<http://www.imdb.com/title/tt0092842/?ref_=nm_flmg_msc_8>" .
+
+<Q16774884>  owl:sameAs  <node2d95cd9c3b585a7c5f8c48607b595aa2_%3Chttp://www.imdb.com/title/tt0092842/?ref_=nm_flmg_msc_8%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node5198d6d2564e934bafb9e4f3a6c4f11_%3Chttp://bigscreen.com/NowShowing.php?movie=104477&view=media%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Dead of Winter" ;
+        ex:source  "node5198d6d2564e934bafb9e4f3a6c4f11_<http://bigscreen.com/NowShowing.php?movie=104477&view=media>" .
+
+<Q16774884>  owl:sameAs  <node5198d6d2564e934bafb9e4f3a6c4f11_%3Chttp://bigscreen.com/NowShowing.php?movie=104477&view=media%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<nodeeb829bf8f7b6b9f27c79c2b842675efc_%3Chttp://bigscreen.com/NowShowing.php?movie=104477&view=sched%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "nodeeb829bf8f7b6b9f27c79c2b842675efc_<http://bigscreen.com/NowShowing.php?movie=104477&view=sched>" .
+
+<Q16774884>  owl:sameAs  <nodeeb829bf8f7b6b9f27c79c2b842675efc_%3Chttp://bigscreen.com/NowShowing.php?movie=104477&view=sched%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node76a4a3efe51650d6ead4219f93ab26b_%3Chttp://bigscreen.com/NowShowing.php?movie=104477%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node76a4a3efe51650d6ead4219f93ab26b_<http://bigscreen.com/NowShowing.php?movie=104477>" .
+
+<Q16774884>  owl:sameAs  <node76a4a3efe51650d6ead4219f93ab26b_%3Chttp://bigscreen.com/NowShowing.php?movie=104477%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node6f2e3f8a8a3e7dc28cf4434dfb3311_%3Chttp://www.movieposterdb.com/poster/c9051f2c%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node6f2e3f8a8a3e7dc28cf4434dfb3311_<http://www.movieposterdb.com/poster/c9051f2c>" .
+
+<Q16774884>  owl:sameAs  <node6f2e3f8a8a3e7dc28cf4434dfb3311_%3Chttp://www.movieposterdb.com/poster/c9051f2c%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<noded65128adc34d81a41a6d728c7f717d_%3Chttp://www.imdb.com/title/tt2139793/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Dead of Winter" ;
+        ex:source  "noded65128adc34d81a41a6d728c7f717d_<http://www.imdb.com/title/tt2139793/>" .
+
+<Q16774884>  owl:sameAs  <noded65128adc34d81a41a6d728c7f717d_%3Chttp://www.imdb.com/title/tt2139793/%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node492fbbacf82121f62694289a6693ab5_%3Chttp://www.imdb.com/title/tt0092842/?ref_=nm_flmg_act_101%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node492fbbacf82121f62694289a6693ab5_<http://www.imdb.com/title/tt0092842/?ref_=nm_flmg_act_101>" .
+
+<Q16774884>  owl:sameAs  <node492fbbacf82121f62694289a6693ab5_%3Chttp://www.imdb.com/title/tt0092842/?ref_=nm_flmg_act_101%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node68bdfb119f284e9f87c1d8c5fe310a5_%3Chttp://www.nytimes.com/movies/movie/12735/Dead-of-Winter/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node68bdfb119f284e9f87c1d8c5fe310a5_<http://www.nytimes.com/movies/movie/12735/Dead-of-Winter/overview>" .
+
+<Q16774884>  owl:sameAs  <node68bdfb119f284e9f87c1d8c5fe310a5_%3Chttp://www.nytimes.com/movies/movie/12735/Dead-of-Winter/overview%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node177091d1b5af62f85495977f7db24db_%3Chttp://www.movieposterdb.com/poster/3f0792ff%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node177091d1b5af62f85495977f7db24db_<http://www.movieposterdb.com/poster/3f0792ff>" .
+
+<Q16774884>  owl:sameAs  <node177091d1b5af62f85495977f7db24db_%3Chttp://www.movieposterdb.com/poster/3f0792ff%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node53fbe95a239d928837417d53ca593d8_%3Chttp://www.movieposterdb.com/poster/155c7671%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node53fbe95a239d928837417d53ca593d8_<http://www.movieposterdb.com/poster/155c7671>" .
+
+<Q16774884>  owl:sameAs  <node53fbe95a239d928837417d53ca593d8_%3Chttp://www.movieposterdb.com/poster/155c7671%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<node42c31ca8a06e42dd60d7cbad6245b0a_%3Chttp://www.rogerebert.com/reviews/dead-of-winter-1987%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Dead of Winter (1987)" ;
+        ex:director  "Arthur Penn" ;
+        ex:source    "node42c31ca8a06e42dd60d7cbad6245b0a_<http://www.rogerebert.com/reviews/dead-of-winter-1987>" .
+
+<Q16774884>  owl:sameAs  <node42c31ca8a06e42dd60d7cbad6245b0a_%3Chttp://www.rogerebert.com/reviews/dead-of-winter-1987%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<b0>    rdf:type     ex:Movie ;
+        ex:title     "Now is Good Almost Married (2014) Dead Of Winter Road to Perdition Two Hats Sesame Street: The Best of Elmo 2 [SS-Eclipse] Shakugan no Shana S - 03 [480p] [h264] Mr. Warmth: The Don Rickles Project Austenland Jillian Michaels: 6 Week Six-Pack Lethal Weapon 4 Class Act The Descent - Part 2 A Stranger Among Us Elegant Angel Swallow My Squirt 2 [SPLIT SCENES] Toy Story Evidence of a Haunting Cop Out Hairbrained Bones Clerks Inside Job Nobody Walks Paranormal Activity 3 Extended Version Warm Bodies Lady And The Tramp Snow Day DCU: Batman: Assault on Arkham Sisterhood of the Traveling Pants 2 Josh and S.A.M. James Bond - Der Mann mit dem goldenen Colt Olympus Has Fallen Pay It Forward Waiting for 'Superman' Frozen (Plus Bonus Features) Petticoat Junction TV Kolya (English Subtitled) CANLI TVX My Dad's Six Wives The Matrix Leaves of Grass Kinky Boots Senior Skip Day Disney Princess Enchanted Tales: Follow Your Dream The 40 Year-old Virgin Bikini Destinations Lima Peru Final Fantasy: The Spirits Within J. Edgar Rugrats Go Wild Homies Dating Lanzelot Cartagena Hawaiian Vacation (Short) Polskie uczennice e21 - Karolina - Szybka akcja w internacie.mp4 The Blue Angel (Kino Restored Edition) (English Subtitled) Solaris filmSPOT There Will Be Blood The Iron Lady The Object Of My Affection" ;
+        ex:director  "b8 b9 b2 b6 b4 b11 b7 b10 b3 b5" ;
+        ex:source    "b0" .
+
+<Q16774884>  owl:sameAs  <b0> ;
+        rdf:type    ex:Movie ;
+        ex:title    "Dead of Winter" .
+
+<b0>    rdf:type     ex:Movie ;
+        ex:title     "Veronica Mars Anchorman 2: The Legend Continues Alex Cross Deadfall The Jungle Book - Animated (1967) Eine pornografische Beziehung 4.3.2.1. Chocolat You're Rejected Leap Year JACKASS PRESENTS: BAD GRANDPA Love Wrecked The Other Guys Zodiac The Da Vinci Code 50/50 White Zombie Nowhere Boy Enemy Of The State American Outlaws The Long Goodbye The Man From Earth The Mortal Instruments: City of Bones 30 Minutes Or Less The Armstrong Lie Oslo, August 31st Taxi Driver Rounders The Battery Rear Window Grossstadtklein Filth Hoosiers Law Abiding Citizen The Appearing Byzantium Tinker Tailor Soldier Spy Kindsköpfe 2 Twenty Bucks 009 Re: Cyborg Indian Porn Videos Kick-Ass Stille Nacht - Das Weihnachtswunder Non-Stop The Bling Ring Sense and Sensibility Whatever Works Indian Sex Videos Sherlock Holmes: A Game Of Shadows Hideaway Monty Python And The Holy Grail Starlet Insidious A Burning Hot Summer (English Subtitled) Gosford Park Predators Cry Of The Banshee Underworld Awakening A Royal Affair (English Subtitled) Justin and the Knights of Valour Snow White: A Tale of Terror Eine Dunkle Begierde The Sapphires King of New York National Treasure: Book Of Secrets Swing Time Little Miss Sunshine Wreck-It Ralph Paranorman Die Kleinen Superstrolche Retten Den Tag Mildred Pierce SPORTSKOOL - Hockey Basics Identity Thief The Secret Village Chicken Run - Hennen rennen Die Lincoln Verschwörung Charlie Rose - Charlie Rose Brain Series 2 Episode 1 (November 3, 2011) The Little Vampire Bandits Blind Horizon Für eine Handvoll Dollar" ;
+        ex:director  "b2 b4 b3 b5" ;
+        ex:source    "b0" .
+
+<Q16774884>  owl:sameAs  <b0> .
+
+<Q4031261>  rdf:type  ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<b0>    rdf:type     ex:Movie ;
+        ex:title     "Now is Good Almost Married (2014) Dead Of Winter Road to Perdition Two Hats Sesame Street: The Best of Elmo 2 [SS-Eclipse] Shakugan no Shana S - 03 [480p] [h264] Mr. Warmth: The Don Rickles Project Austenland Jillian Michaels: 6 Week Six-Pack Lethal Weapon 4 Class Act The Descent - Part 2 A Stranger Among Us Elegant Angel Swallow My Squirt 2 [SPLIT SCENES] Toy Story Evidence of a Haunting Cop Out Hairbrained Bones Clerks Inside Job Nobody Walks Paranormal Activity 3 Extended Version Warm Bodies Lady And The Tramp Snow Day DCU: Batman: Assault on Arkham Sisterhood of the Traveling Pants 2 Josh and S.A.M. James Bond - Der Mann mit dem goldenen Colt Olympus Has Fallen Pay It Forward Waiting for 'Superman' Frozen (Plus Bonus Features) Petticoat Junction TV Kolya (English Subtitled) CANLI TVX My Dad's Six Wives The Matrix Leaves of Grass Kinky Boots Senior Skip Day Disney Princess Enchanted Tales: Follow Your Dream The 40 Year-old Virgin Bikini Destinations Lima Peru Final Fantasy: The Spirits Within J. Edgar Rugrats Go Wild Homies Dating Lanzelot Cartagena Hawaiian Vacation (Short) Polskie uczennice e21 - Karolina - Szybka akcja w internacie.mp4 The Blue Angel (Kino Restored Edition) (English Subtitled) Solaris filmSPOT There Will Be Blood The Iron Lady The Object Of My Affection" ;
+        ex:director  "b8 b9 b2 b6 b4 b11 b7 b10 b3 b5" ;
+        ex:source    "b0" .
+
+<Q4031261>  owl:sameAs  <b0> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<b0>    rdf:type     ex:Movie ;
+        ex:title     "Veronica Mars Anchorman 2: The Legend Continues Alex Cross Deadfall The Jungle Book - Animated (1967) Eine pornografische Beziehung 4.3.2.1. Chocolat You're Rejected Leap Year JACKASS PRESENTS: BAD GRANDPA Love Wrecked The Other Guys Zodiac The Da Vinci Code 50/50 White Zombie Nowhere Boy Enemy Of The State American Outlaws The Long Goodbye The Man From Earth The Mortal Instruments: City of Bones 30 Minutes Or Less The Armstrong Lie Oslo, August 31st Taxi Driver Rounders The Battery Rear Window Grossstadtklein Filth Hoosiers Law Abiding Citizen The Appearing Byzantium Tinker Tailor Soldier Spy Kindsköpfe 2 Twenty Bucks 009 Re: Cyborg Indian Porn Videos Kick-Ass Stille Nacht - Das Weihnachtswunder Non-Stop The Bling Ring Sense and Sensibility Whatever Works Indian Sex Videos Sherlock Holmes: A Game Of Shadows Hideaway Monty Python And The Holy Grail Starlet Insidious A Burning Hot Summer (English Subtitled) Gosford Park Predators Cry Of The Banshee Underworld Awakening A Royal Affair (English Subtitled) Justin and the Knights of Valour Snow White: A Tale of Terror Eine Dunkle Begierde The Sapphires King of New York National Treasure: Book Of Secrets Swing Time Little Miss Sunshine Wreck-It Ralph Paranorman Die Kleinen Superstrolche Retten Den Tag Mildred Pierce SPORTSKOOL - Hockey Basics Identity Thief The Secret Village Chicken Run - Hennen rennen Die Lincoln Verschwörung Charlie Rose - Charlie Rose Brain Series 2 Episode 1 (November 3, 2011) The Little Vampire Bandits Blind Horizon Für eine Handvoll Dollar" ;
+        ex:director  "b2 b4 b3 b5" ;
+        ex:source    "b0" .
+
+<Q4031261>  owl:sameAs  <b0> .
+
+<Q4749729>  rdf:type  ex:Movie ;
+        ex:title     "An Adventure in Space and Time" ;
+        ex:director  "Terry McDonough" .
+
+<node1d1990673a592387a87958df4798b880_%3Chttp://www.allocine.fr/film/fichefilm_gen_cfilm=211274.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "An Adventure In Space and Time" ;
+        ex:director  "Terry McDonough" ;
+        ex:source    "node1d1990673a592387a87958df4798b880_<http://www.allocine.fr/film/fichefilm_gen_cfilm=211274.html>" .
+
+<Q4749729>  owl:sameAs  <node1d1990673a592387a87958df4798b880_%3Chttp://www.allocine.fr/film/fichefilm_gen_cfilm=211274.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "An Adventure in Space and Time" ;
+        ex:director  "Terry McDonough" .
+
+<nodecffd3129221d51214f45d6d31c5a11_%3Chttp://ver-pelis.net/pelicula/del-2013/pagina2/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "An Adventure in Space and Time" ;
+        ex:source  "nodecffd3129221d51214f45d6d31c5a11_<http://ver-pelis.net/pelicula/del-2013/pagina2/>" .
+
+<Q4749729>  owl:sameAs  <nodecffd3129221d51214f45d6d31c5a11_%3Chttp://ver-pelis.net/pelicula/del-2013/pagina2/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "An Adventure in Space and Time" ;
+        ex:director  "Terry McDonough" .
+
+<node7da583254c8f26e07e9dea5bdc38a4f_%3Chttp://www.zap2it.com/movie/an-adventure-in-space-and-time/MV005268360000?aid=zap2it%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "An Adventure in Space and Time" ;
+        ex:source  "node7da583254c8f26e07e9dea5bdc38a4f_<http://www.zap2it.com/movie/an-adventure-in-space-and-time/MV005268360000?aid=zap2it>" .
+
+<Q4749729>  owl:sameAs  <node7da583254c8f26e07e9dea5bdc38a4f_%3Chttp://www.zap2it.com/movie/an-adventure-in-space-and-time/MV005268360000?aid=zap2it%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "An Adventure in Space and Time" ;
+        ex:director  "Terry McDonough" .
+
+<nodebbc844bc7f773a29dd9e66081b2bd92_%3Chttp://xfinitytv.comcast.net/watch/An-Adventure-in-Space-and-Time/5096985101457234112/movies%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "An Adventure in Space and Time" ;
+        ex:source  "nodebbc844bc7f773a29dd9e66081b2bd92_<http://xfinitytv.comcast.net/watch/An-Adventure-in-Space-and-Time/5096985101457234112/movies>" .
+
+<Q4749729>  owl:sameAs  <nodebbc844bc7f773a29dd9e66081b2bd92_%3Chttp://xfinitytv.comcast.net/watch/An-Adventure-in-Space-and-Time/5096985101457234112/movies%3E> .
+
+<Q6945251>  rdf:type  ex:Movie ;
+        ex:title     "My Dear Marthandan" ;
+        ex:director  "Prathap K. Pothan" .
+
+<node72dfd2d837f64fac2ad2ebe822a75023_%3Chttp://www.apunkachoice.com/titles/myd/my-dear-marthandan/mid_31283/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "My Dear Marthandan" ;
+        ex:director  "http://www.apunkachoice.com/names/pra/prathap_k_pothan/cid_333106/" ;
+        ex:source    "node72dfd2d837f64fac2ad2ebe822a75023_<http://www.apunkachoice.com/titles/myd/my-dear-marthandan/mid_31283/>" .
+
+<Q6945251>  owl:sameAs  <node72dfd2d837f64fac2ad2ebe822a75023_%3Chttp://www.apunkachoice.com/titles/myd/my-dear-marthandan/mid_31283/%3E> .
+
+<Q1270632>  rdf:type  ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" .
+
+<nodeabd94e9d4e952fa5459d60d3dc133525_%3Chttp://www.nytimes.com/movies/movie/188185/After-Stonewall/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" ;
+        ex:source    "nodeabd94e9d4e952fa5459d60d3dc133525_<http://www.nytimes.com/movies/movie/188185/After-Stonewall/overview>" .
+
+<Q1270632>  owl:sameAs  <nodeabd94e9d4e952fa5459d60d3dc133525_%3Chttp://www.nytimes.com/movies/movie/188185/After-Stonewall/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" .
+
+<nodeb2b16369d096d2365beceea52614417e_%3Chttp://www.imdb.com/title/tt0244955/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" ;
+        ex:source    "nodeb2b16369d096d2365beceea52614417e_<http://www.imdb.com/title/tt0244955/>" .
+
+<Q1270632>  owl:sameAs  <nodeb2b16369d096d2365beceea52614417e_%3Chttp://www.imdb.com/title/tt0244955/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" .
+
+<nodeeef64fe6fe82ed1335354bd778ab225_%3Chttp://www.imdb.com/title/tt0244955/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" ;
+        ex:source    "nodeeef64fe6fe82ed1335354bd778ab225_<http://www.imdb.com/title/tt0244955/>" .
+
+<Q1270632>  owl:sameAs  <nodeeef64fe6fe82ed1335354bd778ab225_%3Chttp://www.imdb.com/title/tt0244955/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "After Stonewall" ;
+        ex:director  "John Scagliotti" .
+
+<node9aecdc6c59bdc3c0fbfb507452f6932f_%3Chttp://www.imdb.com/title/tt0244955/releaseinfo?ref_=tt_ql_9%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "After Stonewall (1999)" ;
+        ex:source  "node9aecdc6c59bdc3c0fbfb507452f6932f_<http://www.imdb.com/title/tt0244955/releaseinfo?ref_=tt_ql_9>" .
+
+<Q1270632>  owl:sameAs  <node9aecdc6c59bdc3c0fbfb507452f6932f_%3Chttp://www.imdb.com/title/tt0244955/releaseinfo?ref_=tt_ql_9%3E> .
+
+<Q7367373>  rdf:type  ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node0d59843c35a92546823da2209df825_%3Chttp://www.imdb.com/title/tt1733275/?ref_=nm_flmg_msdp_31%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Albert Martinez" ;
+        ex:source    "node0d59843c35a92546823da2209df825_<http://www.imdb.com/title/tt1733275/?ref_=nm_flmg_msdp_31>" .
+
+<Q7367373>  owl:sameAs  <node0d59843c35a92546823da2209df825_%3Chttp://www.imdb.com/title/tt1733275/?ref_=nm_flmg_msdp_31%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<nodeb4b5809388edf02ddbf8195343457d46_%3Chttp://www.themoviedb.org/movie/10810-rosario-tijeras%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario Tijeras" ;
+        ex:director  "Emilio Maillé" ;
+        ex:source    "nodeb4b5809388edf02ddbf8195343457d46_<http://www.themoviedb.org/movie/10810-rosario-tijeras>" .
+
+<Q7367373>  owl:sameAs  <nodeb4b5809388edf02ddbf8195343457d46_%3Chttp://www.themoviedb.org/movie/10810-rosario-tijeras%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<nodefd3951c696846c707b7224d8b25f2fb_%3Chttp://chauthanh.info/manga/view/rosario-vampire.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Rosario Vampire" ;
+        ex:source  "nodefd3951c696846c707b7224d8b25f2fb_<http://chauthanh.info/manga/view/rosario-vampire.html>" .
+
+<Q7367373>  owl:sameAs  <nodefd3951c696846c707b7224d8b25f2fb_%3Chttp://chauthanh.info/manga/view/rosario-vampire.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node8e67ce7991196d4af73cd7215be3ffe8_%3Chttp://www.filmesdetv.com/rosario-tijeras.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario Tijeras" ;
+        ex:director  "Emilio Maillé" ;
+        ex:source    "node8e67ce7991196d4af73cd7215be3ffe8_<http://www.filmesdetv.com/rosario-tijeras.html>" .
+
+<Q7367373>  owl:sameAs  <node8e67ce7991196d4af73cd7215be3ffe8_%3Chttp://www.filmesdetv.com/rosario-tijeras.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node1bf998e495661abac3ebbfe9a5e18_%3Chttp://www.fulltv.com.ar/peliculas/rosario-tijeras.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario Tijeras" ;
+        ex:director  "Emilio Maillé" ;
+        ex:source    "node1bf998e495661abac3ebbfe9a5e18_<http://www.fulltv.com.ar/peliculas/rosario-tijeras.html>" .
+
+<Q7367373>  owl:sameAs  <node1bf998e495661abac3ebbfe9a5e18_%3Chttp://www.fulltv.com.ar/peliculas/rosario-tijeras.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node761891e492090fec5f632186af963d_%3Chttp://www.ovguide.com/rosario-tijeras-9202a8c04000641f8000000000bae474%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Rosario Tijeras" ;
+        ex:source  "node761891e492090fec5f632186af963d_<http://www.ovguide.com/rosario-tijeras-9202a8c04000641f8000000000bae474>" .
+
+<Q7367373>  owl:sameAs  <node761891e492090fec5f632186af963d_%3Chttp://www.ovguide.com/rosario-tijeras-9202a8c04000641f8000000000bae474%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<nodefa52accf13ceed15c56b6ef6265b2e8_%3Chttp://www.imdb.com/title/tt0382271/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario Tijeras" ;
+        ex:director  "Emilio Maillé" ;
+        ex:source    "nodefa52accf13ceed15c56b6ef6265b2e8_<http://www.imdb.com/title/tt0382271/>" .
+
+<Q7367373>  owl:sameAs  <nodefa52accf13ceed15c56b6ef6265b2e8_%3Chttp://www.imdb.com/title/tt0382271/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node4875e8d0843a5aa3bbc255a92b511b4_%3Chttp://www.imdb.com/title/tt0102549/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Nocturno a Rosario" ;
+        ex:director  "Matilde Landeta" ;
+        ex:source    "node4875e8d0843a5aa3bbc255a92b511b4_<http://www.imdb.com/title/tt0102549/>" .
+
+<Q7367373>  owl:sameAs  <node4875e8d0843a5aa3bbc255a92b511b4_%3Chttp://www.imdb.com/title/tt0102549/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<nodef43d64b4d0ac95eeaee71d17f07b875e_%3Chttp://animekun.ru/search/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Розарио + Вампир / Rosario + Vampire" ;
+        ex:source  "nodef43d64b4d0ac95eeaee71d17f07b875e_<http://animekun.ru/search/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/>" .
+
+<Q7367373>  owl:sameAs  <nodef43d64b4d0ac95eeaee71d17f07b875e_%3Chttp://animekun.ru/search/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node8277daa861deff95e0c664f3453cedaf_%3Chttp://www.juvmovies.com/la-peliculas-xxx-de-rosario-escobar.htm%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "la peliculas xxx de rosario escobar" ;
+        ex:source  "node8277daa861deff95e0c664f3453cedaf_<http://www.juvmovies.com/la-peliculas-xxx-de-rosario-escobar.htm>" .
+
+<Q7367373>  owl:sameAs  <node8277daa861deff95e0c664f3453cedaf_%3Chttp://www.juvmovies.com/la-peliculas-xxx-de-rosario-escobar.htm%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<noded7eb2409113385819de3b58f8b990e5_%3Chttp://www.mejane.com/films/detail/19622/Zookeeper.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Kevin James Frank Coraci Rosario Dawson Zookeeper Leslie Bibb" ;
+        ex:director  "http://www.mejane.com/films/detail/19622/Zookeeper.html//films/cast/2995/Frank-Coraci.html" ;
+        ex:source    "noded7eb2409113385819de3b58f8b990e5_<http://www.mejane.com/films/detail/19622/Zookeeper.html>" .
+
+<Q7367373>  owl:sameAs  <noded7eb2409113385819de3b58f8b990e5_%3Chttp://www.mejane.com/films/detail/19622/Zookeeper.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<nodebcbe7715c950e0691517de472af5629_%3Chttp://www.aullidos.com/pelicula.asp?id_pelicula=9050%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "TRANCE (2013) Vincent Cassel James McAvoy Rosario Dawson Danny Boyle" ;
+        ex:source  "nodebcbe7715c950e0691517de472af5629_<http://www.aullidos.com/pelicula.asp?id_pelicula=9050>" .
+
+<Q7367373>  owl:sameAs  <nodebcbe7715c950e0691517de472af5629_%3Chttp://www.aullidos.com/pelicula.asp?id_pelicula=9050%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node5417377327dcfc8a1bb9efc5b3838a_%3Chttp://www.commeaucinema.com/film/trance-thriller,259587%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Vincent Cassel Trance Rosario Dawson James Mcavoy Danny Boyle" ;
+        ex:source  "node5417377327dcfc8a1bb9efc5b3838a_<http://www.commeaucinema.com/film/trance-thriller,259587>" .
+
+<Q7367373>  owl:sameAs  <node5417377327dcfc8a1bb9efc5b3838a_%3Chttp://www.commeaucinema.com/film/trance-thriller,259587%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node4b1e1a1d2b7cea78a7e58a990acb2d6_%3Chttp://mrstiff.es/buscar/straight/spanish%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "http://mrstiff.es/buscar/straight/spanish//pelicula/horny-spanish-flies-rosario-ston-472081" ;
+        ex:source  "node4b1e1a1d2b7cea78a7e58a990acb2d6_<http://mrstiff.es/buscar/straight/spanish>" .
+
+<Q7367373>  owl:sameAs  <node4b1e1a1d2b7cea78a7e58a990acb2d6_%3Chttp://mrstiff.es/buscar/straight/spanish%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<noded6f5145da389e8f4f77d7d78153f78eb_%3Chttp://www.commeaucinema.com/film/bienvenue-dans-la-jungle-action,15890%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Rosario Dawson Seann William Scott Peter Berg Christopher Walken Bienvenue dans la jungle The Rock" ;
+        ex:source  "noded6f5145da389e8f4f77d7d78153f78eb_<http://www.commeaucinema.com/film/bienvenue-dans-la-jungle-action,15890>" .
+
+<Q7367373>  owl:sameAs  <noded6f5145da389e8f4f77d7d78153f78eb_%3Chttp://www.commeaucinema.com/film/bienvenue-dans-la-jungle-action,15890%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rosario" ;
+        ex:director  "Miguel Zacarías" .
+
+<node96469dda8021321bbccfcf2888021d8_%3Chttp://www.aullidos.com/pelicula.asp?id_pelicula=5805%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Erica Cerra Sean Bean Catherine Keener Melina Kanakaredes Brandon T. Jackson Uma Thurman Pierce Brosnan Rosario Dawson Steve Coogan PERCY JACKSON Y EL LADRï¿½N DEL RAYO (2010) Logan Lerman Chris Columbus Craig Titley (Novela: Rick Riordan) Joe Pantoliano Kevin McKidd" ;
+        ex:source  "node96469dda8021321bbccfcf2888021d8_<http://www.aullidos.com/pelicula.asp?id_pelicula=5805>" .
+
+<Q7367373>  owl:sameAs  <node96469dda8021321bbccfcf2888021d8_%3Chttp://www.aullidos.com/pelicula.asp?id_pelicula=5805%3E> .
+
+<Q3232718>  rdf:type  ex:Movie ;
+        ex:title     "The Gay Sisters" ;
+        ex:director  "Irving Rapper" .
+
+<node91e9f8a7ca4544a14f22e7b16ac1e5b_%3Chttp://www.imdb.com/title/tt0034770/?ref_=nm_flmg_act_190%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gay Sisters" ;
+        ex:director  "Irving Rapper" ;
+        ex:source    "node91e9f8a7ca4544a14f22e7b16ac1e5b_<http://www.imdb.com/title/tt0034770/?ref_=nm_flmg_act_190>" .
+
+<Q3232718>  owl:sameAs  <node91e9f8a7ca4544a14f22e7b16ac1e5b_%3Chttp://www.imdb.com/title/tt0034770/?ref_=nm_flmg_act_190%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Gay Sisters" ;
+        ex:director  "Irving Rapper" .
+
+<noded6c82c119dc691566665a9db1019d091_%3Chttp://www.nytimes.com/movies/movie/92769/The-Gay-Sisters/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Gay Sisters" ;
+        ex:director  "Irving Rapper" ;
+        ex:source    "noded6c82c119dc691566665a9db1019d091_<http://www.nytimes.com/movies/movie/92769/The-Gay-Sisters/overview>" .
+
+<Q3232718>  owl:sameAs  <noded6c82c119dc691566665a9db1019d091_%3Chttp://www.nytimes.com/movies/movie/92769/The-Gay-Sisters/overview%3E> .
+
+<Q6470185>  rdf:type  ex:Movie ;
+        ex:title     "Lady Gangster" ;
+        ex:director  "Robert Florey" .
+
+<nodea0cdb59badf3aa746e8ebadc6feecdf_%3Chttp://www.nytimes.com/movies/movie/98484/Lady-Gangster/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Lady Gangster" ;
+        ex:director  "Robert Florey" ;
+        ex:source    "nodea0cdb59badf3aa746e8ebadc6feecdf_<http://www.nytimes.com/movies/movie/98484/Lady-Gangster/overview>" .
+
+<Q6470185>  owl:sameAs  <nodea0cdb59badf3aa746e8ebadc6feecdf_%3Chttp://www.nytimes.com/movies/movie/98484/Lady-Gangster/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Lady Gangster" ;
+        ex:director  "Robert Florey" .
+
+<noded0ac79491d1c4fce1860d1c4e3d6816e_%3Chttp://www.watchfreemovies.ch/watch-movies/1942/watch-lady-gangster-144050/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Lady Gangster" ;
+        ex:director  "Robert Florey" ;
+        ex:source    "noded0ac79491d1c4fce1860d1c4e3d6816e_<http://www.watchfreemovies.ch/watch-movies/1942/watch-lady-gangster-144050/>" .
+
+<Q6470185>  owl:sameAs  <noded0ac79491d1c4fce1860d1c4e3d6816e_%3Chttp://www.watchfreemovies.ch/watch-movies/1942/watch-lady-gangster-144050/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Lady Gangster" ;
+        ex:director  "Robert Florey" .
+
+<nodeaa13729d1ece89e785ea5cd7aaae80_%3Chttp://www.themoviedb.org/movie/23107-lady-gangster%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Lady Gangster" ;
+        ex:director  "Robert Florey" ;
+        ex:source    "nodeaa13729d1ece89e785ea5cd7aaae80_<http://www.themoviedb.org/movie/23107-lady-gangster>" .
+
+<Q6470185>  owl:sameAs  <nodeaa13729d1ece89e785ea5cd7aaae80_%3Chttp://www.themoviedb.org/movie/23107-lady-gangster%3E> .
+
+<Q584057>  rdf:type  ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<nodefa5d21858f557b5c4c5b82b54c3f43_%3Chttp://www.imdb.com/title/tt0113114/?ref_=nm_knf_i4%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" ;
+        ex:source    "nodefa5d21858f557b5c4c5b82b54c3f43_<http://www.imdb.com/title/tt0113114/?ref_=nm_knf_i4>" .
+
+<Q584057>  owl:sameAs  <nodefa5d21858f557b5c4c5b82b54c3f43_%3Chttp://www.imdb.com/title/tt0113114/?ref_=nm_knf_i4%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<node35ecd2319d9f66cd55a620183ca817_%3Chttp://www.imdb.com/title/tt0113114/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" ;
+        ex:source    "node35ecd2319d9f66cd55a620183ca817_<http://www.imdb.com/title/tt0113114/>" .
+
+<Q584057>  owl:sameAs  <node35ecd2319d9f66cd55a620183ca817_%3Chttp://www.imdb.com/title/tt0113114/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<node9829978c2d2430e51d77ff72621ae3b_%3Chttp://www.imdb.com/title/tt0113114/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" ;
+        ex:source    "node9829978c2d2430e51d77ff72621ae3b_<http://www.imdb.com/title/tt0113114/>" .
+
+<Q584057>  owl:sameAs  <node9829978c2d2430e51d77ff72621ae3b_%3Chttp://www.imdb.com/title/tt0113114/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<nodef5fe51bbaec0e16b697b61472276a9d9_%3Chttp://parentpreviews.com/movie-reviews/review/free-willy-2-the-adventure-home%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Free Willy 2: The Adventure Home" ;
+        ex:source  "nodef5fe51bbaec0e16b697b61472276a9d9_<http://parentpreviews.com/movie-reviews/review/free-willy-2-the-adventure-home>" .
+
+<Q584057>  owl:sameAs  <nodef5fe51bbaec0e16b697b61472276a9d9_%3Chttp://parentpreviews.com/movie-reviews/review/free-willy-2-the-adventure-home%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<node915746665d17c363d784ca829aa12_%3Chttp://parentpreviews.com/movie-reviews/review/free-willy-2-the-adventure-home%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Free Willy 2: The Adventure Home" ;
+        ex:source  "node915746665d17c363d784ca829aa12_<http://parentpreviews.com/movie-reviews/review/free-willy-2-the-adventure-home>" .
+
+<Q584057>  owl:sameAs  <node915746665d17c363d784ca829aa12_%3Chttp://parentpreviews.com/movie-reviews/review/free-willy-2-the-adventure-home%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<node1ad96f134098e8ebdec3ed741a921fd_%3Chttp://www.fandango.com/freewilly2:theadventurehome_32155/movieoverview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Michael J. McAlister Dwight H. Little" ;
+        ex:source    "node1ad96f134098e8ebdec3ed741a921fd_<http://www.fandango.com/freewilly2:theadventurehome_32155/movieoverview>" .
+
+<Q584057>  owl:sameAs  <node1ad96f134098e8ebdec3ed741a921fd_%3Chttp://www.fandango.com/freewilly2:theadventurehome_32155/movieoverview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<nodec05e51a448f3849524b451ec898d1f9_%3Chttp://www.nytimes.com/movies/movie/134937/Free-Willy-2-The-Adventure-Home/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Conrad Palmisano Michael J. McAlister Dwight Little" ;
+        ex:source    "nodec05e51a448f3849524b451ec898d1f9_<http://www.nytimes.com/movies/movie/134937/Free-Willy-2-The-Adventure-Home/overview>" .
+
+<Q584057>  owl:sameAs  <nodec05e51a448f3849524b451ec898d1f9_%3Chttp://www.nytimes.com/movies/movie/134937/Free-Willy-2-The-Adventure-Home/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<node7dc8d1aa4f3152b45649c1d4ded4fe9e_%3Chttp://www.zap2it.com/movie/free-willy-2-the-adventure-home/MV000428780000%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Free Willy 2: The Adventure Home" ;
+        ex:source  "node7dc8d1aa4f3152b45649c1d4ded4fe9e_<http://www.zap2it.com/movie/free-willy-2-the-adventure-home/MV000428780000>" .
+
+<Q584057>  owl:sameAs  <node7dc8d1aa4f3152b45649c1d4ded4fe9e_%3Chttp://www.zap2it.com/movie/free-willy-2-the-adventure-home/MV000428780000%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<nodef79a6e91ffed78ed2a7b7416c543b_%3Chttp://www.imdb.com/title/tt0113114/trivia?tab=mc%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Free Willy 2: The Adventure Home (1995)" ;
+        ex:source  "nodef79a6e91ffed78ed2a7b7416c543b_<http://www.imdb.com/title/tt0113114/trivia?tab=mc>" .
+
+<Q584057>  owl:sameAs  <nodef79a6e91ffed78ed2a7b7416c543b_%3Chttp://www.imdb.com/title/tt0113114/trivia?tab=mc%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Free Willy 2: The Adventure Home" ;
+        ex:director  "Dwight H. Little" .
+
+<nodec96365a0e6984eea5b65b3222134e42d_%3Chttp://www.listal.com/movie/free-willy-2-adventure-home%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Free Willy 2: The Adventure Home (1995)" ;
+        ex:source  "nodec96365a0e6984eea5b65b3222134e42d_<http://www.listal.com/movie/free-willy-2-adventure-home>" .
+
+<Q584057>  owl:sameAs  <nodec96365a0e6984eea5b65b3222134e42d_%3Chttp://www.listal.com/movie/free-willy-2-adventure-home%3E> .
+
+<Q4976538>  rdf:type  ex:Movie ;
+        ex:title     "Brownies" ;
+        ex:director  "Hanung Bramantyo" .
+
+<nodecb8ae1a143f1c6be231c17e884797e_%3Chttp://www.imdb.com/title/tt1053226/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Brownies" ;
+        ex:director  "Hanung Bramantyo" ;
+        ex:source    "nodecb8ae1a143f1c6be231c17e884797e_<http://www.imdb.com/title/tt1053226/>" .
+
+<Q4976538>  owl:sameAs  <nodecb8ae1a143f1c6be231c17e884797e_%3Chttp://www.imdb.com/title/tt1053226/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Brownies" ;
+        ex:director  "Hanung Bramantyo" .
+
+<nodea2785c862ac9bb1667118e9f7bb43d3_%3Chttp://www.movieposterdb.com/movie/1053226/Brownies.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Brownies" ;
+        ex:source  "nodea2785c862ac9bb1667118e9f7bb43d3_<http://www.movieposterdb.com/movie/1053226/Brownies.html>" .
+
+<Q4976538>  owl:sameAs  <nodea2785c862ac9bb1667118e9f7bb43d3_%3Chttp://www.movieposterdb.com/movie/1053226/Brownies.html%3E> .
+
+<Q4031261>  rdf:type  ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node6366528e777c34dbb32f9b7b6a624e0_%3Chttp://www.traileraddict.com/4-3-2-1/dvd-tv-spot%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "4.3.2.1" ;
+        ex:source  "node6366528e777c34dbb32f9b7b6a624e0_<http://www.traileraddict.com/4-3-2-1/dvd-tv-spot>" .
+
+<Q4031261>  owl:sameAs  <node6366528e777c34dbb32f9b7b6a624e0_%3Chttp://www.traileraddict.com/4-3-2-1/dvd-tv-spot%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node6b66cafda3dc671cfc21ac6bc94eec1_%3Chttp://www.dvdreleases.org/drama/4-3-2-1/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "4.3.2.1" ;
+        ex:source  "node6b66cafda3dc671cfc21ac6bc94eec1_<http://www.dvdreleases.org/drama/4-3-2-1/>" .
+
+<Q4031261>  owl:sameAs  <node6b66cafda3dc671cfc21ac6bc94eec1_%3Chttp://www.dvdreleases.org/drama/4-3-2-1/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node309876d2a68e4deedf8b4f3d7c942c67_%3Chttp://www.redbox.com/movies/4321%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1." ;
+        ex:director  "Noel Clarke" ;
+        ex:source    "node309876d2a68e4deedf8b4f3d7c942c67_<http://www.redbox.com/movies/4321>" .
+
+<Q4031261>  owl:sameAs  <node309876d2a68e4deedf8b4f3d7c942c67_%3Chttp://www.redbox.com/movies/4321%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<nodeb493a549d0c82f884c6d25c9351fc73_%3Chttp://www.nytimes.com/movies/movie/461908/4-3-2-1/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke Mark Davis" ;
+        ex:source    "nodeb493a549d0c82f884c6d25c9351fc73_<http://www.nytimes.com/movies/movie/461908/4-3-2-1/overview>" .
+
+<Q4031261>  owl:sameAs  <nodeb493a549d0c82f884c6d25c9351fc73_%3Chttp://www.nytimes.com/movies/movie/461908/4-3-2-1/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node1073626fefe142d99ee3835b0207f2e_%3Chttp://www.movieposterdb.com/poster/404977cc%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" ;
+        ex:source    "node1073626fefe142d99ee3835b0207f2e_<http://www.movieposterdb.com/poster/404977cc>" .
+
+<Q4031261>  owl:sameAs  <node1073626fefe142d99ee3835b0207f2e_%3Chttp://www.movieposterdb.com/poster/404977cc%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<nodebc8b315ba163db243b0cf39c583a211_%3Chttp://www.movieposterdb.com/poster/b2bcc775%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" ;
+        ex:source    "nodebc8b315ba163db243b0cf39c583a211_<http://www.movieposterdb.com/poster/b2bcc775>" .
+
+<Q4031261>  owl:sameAs  <nodebc8b315ba163db243b0cf39c583a211_%3Chttp://www.movieposterdb.com/poster/b2bcc775%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node9fa914868042a436fd5f1a822b10e75d_%3Chttp://www.traileraddict.com/4-3-2-1-%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke Mark Davis" ;
+        ex:source    "node9fa914868042a436fd5f1a822b10e75d_<http://www.traileraddict.com/4-3-2-1->" .
+
+<Q4031261>  owl:sameAs  <node9fa914868042a436fd5f1a822b10e75d_%3Chttp://www.traileraddict.com/4-3-2-1-%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node73a9ce28707b6f9faef2b3949f6938f_%3Chttp://www.movieposterdb.com/poster/c253a376%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" ;
+        ex:source    "node73a9ce28707b6f9faef2b3949f6938f_<http://www.movieposterdb.com/poster/c253a376>" .
+
+<Q4031261>  owl:sameAs  <node73a9ce28707b6f9faef2b3949f6938f_%3Chttp://www.movieposterdb.com/poster/c253a376%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node44424157d71cbc9df85beb41276e0cb_%3Chttp://www.movieposterdb.com/poster/8c5593ae%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" ;
+        ex:source    "node44424157d71cbc9df85beb41276e0cb_<http://www.movieposterdb.com/poster/8c5593ae>" .
+
+<Q4031261>  owl:sameAs  <node44424157d71cbc9df85beb41276e0cb_%3Chttp://www.movieposterdb.com/poster/8c5593ae%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node1a3c99b28f13c7b2301c228e1f478_%3Chttp://trakt.tv/movie/4321-2010%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "4.3.2.1" ;
+        ex:source  "node1a3c99b28f13c7b2301c228e1f478_<http://trakt.tv/movie/4321-2010>" .
+
+<Q4031261>  owl:sameAs  <node1a3c99b28f13c7b2301c228e1f478_%3Chttp://trakt.tv/movie/4321-2010%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node9a3643cbf92fb9aa0c2c121c522e8ad_%3Chttp://www.imdb.com/title/tt1514041/releaseinfo%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "4.3.2.1. (2010)" ;
+        ex:source  "node9a3643cbf92fb9aa0c2c121c522e8ad_<http://www.imdb.com/title/tt1514041/releaseinfo>" .
+
+<Q4031261>  owl:sameAs  <node9a3643cbf92fb9aa0c2c121c522e8ad_%3Chttp://www.imdb.com/title/tt1514041/releaseinfo%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1" ;
+        ex:director  "Noel Clarke" .
+
+<node5ddf495de88978b21378cba2dafad77_%3Chttp://bestkino.su/2011/02/4-3-2-1/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "4.3.2.1 смотреть онлайн" ;
+        ex:director  "Ноэль Кларк" ;
+        ex:source    "node5ddf495de88978b21378cba2dafad77_<http://bestkino.su/2011/02/4-3-2-1/>" .
+
+<Q4031261>  owl:sameAs  <node5ddf495de88978b21378cba2dafad77_%3Chttp://bestkino.su/2011/02/4-3-2-1/%3E> .
+
+<Q309621>  rdf:type  ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node389db7e7f67deca9188a87dd93143f5_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_flmg_eddp_1%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node389db7e7f67deca9188a87dd93143f5_<http://www.imdb.com/title/tt0120746/?ref_=nm_flmg_eddp_1>" .
+
+<Q309621>  owl:sameAs  <node389db7e7f67deca9188a87dd93143f5_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_flmg_eddp_1%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node1da48b61cb7be8453ed4bdd18f838079_%3Chttp://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/fanclub/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "http://www.apunkachoice.com/names/mar/martin_campbell/cid_74151/" ;
+        ex:source    "node1da48b61cb7be8453ed4bdd18f838079_<http://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/fanclub/>" .
+
+<Q309621>  owl:sameAs  <node1da48b61cb7be8453ed4bdd18f838079_%3Chttp://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/fanclub/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node307d45eea609eec85979e2f3823b84d_%3Chttp://xfinitytv.comcast.net/watch/The-Mask-of-Zorro/5032029843226834112/movies?locale=en%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask of Zorro" ;
+        ex:source  "node307d45eea609eec85979e2f3823b84d_<http://xfinitytv.comcast.net/watch/The-Mask-of-Zorro/5032029843226834112/movies?locale=en>" .
+
+<Q309621>  owl:sameAs  <node307d45eea609eec85979e2f3823b84d_%3Chttp://xfinitytv.comcast.net/watch/The-Mask-of-Zorro/5032029843226834112/movies?locale=en%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node2c78f98c1bb6c57043f8d8a165b4ca2_%3Chttp://www.filmesdetv.com/the-mask-of-zorro.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node2c78f98c1bb6c57043f8d8a165b4ca2_<http://www.filmesdetv.com/the-mask-of-zorro.html>" .
+
+<Q309621>  owl:sameAs  <node2c78f98c1bb6c57043f8d8a165b4ca2_%3Chttp://www.filmesdetv.com/the-mask-of-zorro.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node3280799c5b67db9cafa2b387c8c9542a_%3Chttp://www.nytimes.com/movies/movie/158887/The-Mask-Of-Zorro/overview%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask of Zorro" ;
+        ex:source  "node3280799c5b67db9cafa2b387c8c9542a_<http://www.nytimes.com/movies/movie/158887/The-Mask-Of-Zorro/overview>" .
+
+<Q309621>  owl:sameAs  <node3280799c5b67db9cafa2b387c8c9542a_%3Chttp://www.nytimes.com/movies/movie/158887/The-Mask-Of-Zorro/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<nodea62fbf2e83b862eb30c398d6fc9ceaa1_%3Chttp://www.movieposterdb.com/movie/0120746/The-Mask-Of-Zorro.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask Of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "nodea62fbf2e83b862eb30c398d6fc9ceaa1_<http://www.movieposterdb.com/movie/0120746/The-Mask-Of-Zorro.html>" .
+
+<Q309621>  owl:sameAs  <nodea62fbf2e83b862eb30c398d6fc9ceaa1_%3Chttp://www.movieposterdb.com/movie/0120746/The-Mask-Of-Zorro.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node4fe82aa1b7c615b4e0985b2f857071ae_%3Chttp://www.hollywood.com/movies/166270/the-mask-of-zorro%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Glenn Randall Jr. Martin Campbell" ;
+        ex:source    "node4fe82aa1b7c615b4e0985b2f857071ae_<http://www.hollywood.com/movies/166270/the-mask-of-zorro>" .
+
+<Q309621>  owl:sameAs  <node4fe82aa1b7c615b4e0985b2f857071ae_%3Chttp://www.hollywood.com/movies/166270/the-mask-of-zorro%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node5edbcb18a28586b5b11fb7cb28a0c4_%3Chttp://www.zap2it.com/movie/the-mask-of-zorro/MV000608700000?aid=zap2it%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask of Zorro" ;
+        ex:source  "node5edbcb18a28586b5b11fb7cb28a0c4_<http://www.zap2it.com/movie/the-mask-of-zorro/MV000608700000?aid=zap2it>" .
+
+<Q309621>  owl:sameAs  <node5edbcb18a28586b5b11fb7cb28a0c4_%3Chttp://www.zap2it.com/movie/the-mask-of-zorro/MV000608700000?aid=zap2it%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node3316da1af6c774dcc7927f78b2b1cd3f_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_knf_i1%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node3316da1af6c774dcc7927f78b2b1cd3f_<http://www.imdb.com/title/tt0120746/?ref_=nm_knf_i1>" .
+
+<Q309621>  owl:sameAs  <node3316da1af6c774dcc7927f78b2b1cd3f_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_knf_i1%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node33b08d75fbc4e190aa48e6e6185dbb57_%3Chttp://www.guidafilm.com/the-mask-of-zorro.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node33b08d75fbc4e190aa48e6e6185dbb57_<http://www.guidafilm.com/the-mask-of-zorro.html>" .
+
+<Q309621>  owl:sameAs  <node33b08d75fbc4e190aa48e6e6185dbb57_%3Chttp://www.guidafilm.com/the-mask-of-zorro.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node9791727a46de41a8955f9829a985b19_%3Chttp://www.imdb.com/title/tt0120746/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node9791727a46de41a8955f9829a985b19_<http://www.imdb.com/title/tt0120746/>" .
+
+<Q309621>  owl:sameAs  <node9791727a46de41a8955f9829a985b19_%3Chttp://www.imdb.com/title/tt0120746/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node234353c2b453a4c4836abc124a3c79ac_%3Chttp://www.imdb.com/title/tt0120746/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node234353c2b453a4c4836abc124a3c79ac_<http://www.imdb.com/title/tt0120746/>" .
+
+<Q309621>  owl:sameAs  <node234353c2b453a4c4836abc124a3c79ac_%3Chttp://www.imdb.com/title/tt0120746/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<nodedc96fcbffa2bf6f16f7d948c96551ff_%3Chttp://www.imdb.com/title/tt0120746/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "nodedc96fcbffa2bf6f16f7d948c96551ff_<http://www.imdb.com/title/tt0120746/>" .
+
+<Q309621>  owl:sameAs  <nodedc96fcbffa2bf6f16f7d948c96551ff_%3Chttp://www.imdb.com/title/tt0120746/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node9e8a2aca618ed85bf2eafb9a329209f_%3Chttp://www.movieposterdb.com/poster/a6c54fb5%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask Of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node9e8a2aca618ed85bf2eafb9a329209f_<http://www.movieposterdb.com/poster/a6c54fb5>" .
+
+<Q309621>  owl:sameAs  <node9e8a2aca618ed85bf2eafb9a329209f_%3Chttp://www.movieposterdb.com/poster/a6c54fb5%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node328b0142f34272a4b50b80a97e50c1_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_flmg_spl_12%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node328b0142f34272a4b50b80a97e50c1_<http://www.imdb.com/title/tt0120746/?ref_=nm_flmg_spl_12>" .
+
+<Q309621>  owl:sameAs  <node328b0142f34272a4b50b80a97e50c1_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_flmg_spl_12%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node40c81d5e8e444028e23bd99c4f4f3fa2_%3Chttp://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "http://www.apunkachoice.com/names/mar/martin_campbell/cid_74151/" ;
+        ex:source    "node40c81d5e8e444028e23bd99c4f4f3fa2_<http://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/>" .
+
+<Q309621>  owl:sameAs  <node40c81d5e8e444028e23bd99c4f4f3fa2_%3Chttp://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node15f13a94739633aa9af51d157423f2f4_%3Chttp://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/synopsis/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "http://www.apunkachoice.com/names/mar/martin_campbell/cid_74151/" ;
+        ex:source    "node15f13a94739633aa9af51d157423f2f4_<http://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/synopsis/>" .
+
+<Q309621>  owl:sameAs  <node15f13a94739633aa9af51d157423f2f4_%3Chttp://www.apunkachoice.com/titles/the/the-mask-of-zorro/mid_25701/synopsis/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node6455525d66a5a57de3a7d5b913f9d9e_%3Chttp://www.metacritic.com/movie/the-mask-of-zorro?recent-sort=userscore%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node6455525d66a5a57de3a7d5b913f9d9e_<http://www.metacritic.com/movie/the-mask-of-zorro?recent-sort=userscore>" .
+
+<Q309621>  owl:sameAs  <node6455525d66a5a57de3a7d5b913f9d9e_%3Chttp://www.metacritic.com/movie/the-mask-of-zorro?recent-sort=userscore%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node5061eacfb01ced919d83d31f929732f6_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_flmg_vsl_1%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node5061eacfb01ced919d83d31f929732f6_<http://www.imdb.com/title/tt0120746/?ref_=nm_flmg_vsl_1>" .
+
+<Q309621>  owl:sameAs  <node5061eacfb01ced919d83d31f929732f6_%3Chttp://www.imdb.com/title/tt0120746/?ref_=nm_flmg_vsl_1%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node29bd852abd58c2b21a70f1acae71f093_%3Chttp://www.movieposterdb.com/poster/ed4d7d42%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask Of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node29bd852abd58c2b21a70f1acae71f093_<http://www.movieposterdb.com/poster/ed4d7d42>" .
+
+<Q309621>  owl:sameAs  <node29bd852abd58c2b21a70f1acae71f093_%3Chttp://www.movieposterdb.com/poster/ed4d7d42%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node9939b35f197d96215464f1724c1cdc6_%3Chttp://xfinitytv.comcast.net/watch/The-Mask-of-Zorro/5032029843226834112/movies?locale=es_US%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask of Zorro" ;
+        ex:source  "node9939b35f197d96215464f1724c1cdc6_<http://xfinitytv.comcast.net/watch/The-Mask-of-Zorro/5032029843226834112/movies?locale=es_US>" .
+
+<Q309621>  owl:sameAs  <node9939b35f197d96215464f1724c1cdc6_%3Chttp://xfinitytv.comcast.net/watch/The-Mask-of-Zorro/5032029843226834112/movies?locale=es_US%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node488fb63f675dcbc9382df3448d91e4_%3Chttp://parentpreviews.com/movie-reviews/review/mask-of-zorro%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask Of Zorro" ;
+        ex:source  "node488fb63f675dcbc9382df3448d91e4_<http://parentpreviews.com/movie-reviews/review/mask-of-zorro>" .
+
+<Q309621>  owl:sameAs  <node488fb63f675dcbc9382df3448d91e4_%3Chttp://parentpreviews.com/movie-reviews/review/mask-of-zorro%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node2630d61ea4f09575c1fa18448e831e2_%3Chttp://www.fulltvfilms.com/the-mask-of-zorro.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node2630d61ea4f09575c1fa18448e831e2_<http://www.fulltvfilms.com/the-mask-of-zorro.html>" .
+
+<Q309621>  owl:sameAs  <node2630d61ea4f09575c1fa18448e831e2_%3Chttp://www.fulltvfilms.com/the-mask-of-zorro.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node41d2eb163d2b534ade7a2087ea5aa6_%3Chttp://www.traileraddict.com/mask-of-zorro%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node41d2eb163d2b534ade7a2087ea5aa6_<http://www.traileraddict.com/mask-of-zorro>" .
+
+<Q309621>  owl:sameAs  <node41d2eb163d2b534ade7a2087ea5aa6_%3Chttp://www.traileraddict.com/mask-of-zorro%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node9b62b7984b2e3ddc157996e4bd0b_%3Chttp://www.the-numbers.com/movie/Mask-of-Zorro%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node9b62b7984b2e3ddc157996e4bd0b_<http://www.the-numbers.com/movie/Mask-of-Zorro>" .
+
+<Q309621>  owl:sameAs  <node9b62b7984b2e3ddc157996e4bd0b_%3Chttp://www.the-numbers.com/movie/Mask-of-Zorro%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node1d42ba7c911498a11e4d8debd1e3dcb0_%3Chttp://www.subs4movies.com/movie-subtitles/the-mask-of-zorro-1998/s4md3eba0905/Greek%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro (1998)" ;
+        ex:director  "Martin Campbell" ;
+        ex:source    "node1d42ba7c911498a11e4d8debd1e3dcb0_<http://www.subs4movies.com/movie-subtitles/the-mask-of-zorro-1998/s4md3eba0905/Greek>" .
+
+<Q309621>  owl:sameAs  <node1d42ba7c911498a11e4d8debd1e3dcb0_%3Chttp://www.subs4movies.com/movie-subtitles/the-mask-of-zorro-1998/s4md3eba0905/Greek%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<nodeceb9f8758efff10c8f83b227967a1bf_%3Chttp://www.imdb.com/title/tt0120746/trivia%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask of Zorro (1998)" ;
+        ex:source  "nodeceb9f8758efff10c8f83b227967a1bf_<http://www.imdb.com/title/tt0120746/trivia>" .
+
+<Q309621>  owl:sameAs  <nodeceb9f8758efff10c8f83b227967a1bf_%3Chttp://www.imdb.com/title/tt0120746/trivia%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node43498638d5f5b36c4fd1d3b2e153b_%3Chttp://www.rogerebert.com/reviews/the-mask-of-zorro-1998%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "The Mask of Zorro (1998)" ;
+        ex:source  "node43498638d5f5b36c4fd1d3b2e153b_<http://www.rogerebert.com/reviews/the-mask-of-zorro-1998>" .
+
+<Q309621>  owl:sameAs  <node43498638d5f5b36c4fd1d3b2e153b_%3Chttp://www.rogerebert.com/reviews/the-mask-of-zorro-1998%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "The Mask of Zorro" ;
+        ex:director  "Martin Campbell" .
+
+<node7a1de6f3c86beba4bd94d6a51143d8_%3Chttp://www.imdb.com/title/tt0059950/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "\"El Zorro cabalga otra vez\" (original title) Behind the Mask of Zorro" ;
+        ex:director  "Ricardo Blasco" ;
+        ex:source    "node7a1de6f3c86beba4bd94d6a51143d8_<http://www.imdb.com/title/tt0059950/>" .
+
+<Q309621>  owl:sameAs  <node7a1de6f3c86beba4bd94d6a51143d8_%3Chttp://www.imdb.com/title/tt0059950/%3E> .
+
+<Q2819612>  rdf:type  ex:Movie ;
+        ex:title  "AYA" .
+
+<node768632a433a05de3e73e213aa71961b0_%3Chttp://www.hollywood.com/movies/55664726/aya%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Aya" ;
+        ex:director  "Solrun Hoaas" ;
+        ex:source    "node768632a433a05de3e73e213aa71961b0_<http://www.hollywood.com/movies/55664726/aya>" .
+
+<Q2819612>  owl:sameAs  <node768632a433a05de3e73e213aa71961b0_%3Chttp://www.hollywood.com/movies/55664726/aya%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<nodee4b9b4e01f1a19f576fcaae2129d42ab_%3Chttp://www.movieposterdb.com/movie/2326094/Aya.html%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Aya" ;
+        ex:source  "nodee4b9b4e01f1a19f576fcaae2129d42ab_<http://www.movieposterdb.com/movie/2326094/Aya.html>" .
+
+<Q2819612>  owl:sameAs  <nodee4b9b4e01f1a19f576fcaae2129d42ab_%3Chttp://www.movieposterdb.com/movie/2326094/Aya.html%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<nodea54ed676bc7c4aa336ee9625094731_%3Chttp://www.fulltvfilms.com/aya-de-yopougon.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Aya de Yopougon" ;
+        ex:director  "Marguerite Abouet et Clement Oubrerie" ;
+        ex:source    "nodea54ed676bc7c4aa336ee9625094731_<http://www.fulltvfilms.com/aya-de-yopougon.html>" .
+
+<Q2819612>  owl:sameAs  <nodea54ed676bc7c4aa336ee9625094731_%3Chttp://www.fulltvfilms.com/aya-de-yopougon.html%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<nodee29243736845789586e79f15e4f5c5d_%3Chttp://animekun.ru/search/%D0%BD%D0%B5%D0%B1%D0%BE%20%D0%B8%20%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%202%20%D1%81%D0%B5%D0%B7%D0%BE%D0%BD/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Хисакава Ая / Hisakawa Aya" ;
+        ex:source  "nodee29243736845789586e79f15e4f5c5d_<http://animekun.ru/search/%D0%BD%D0%B5%D0%B1%D0%BE%20%D0%B8%20%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%202%20%D1%81%D0%B5%D0%B7%D0%BE%D0%BD/>" .
+
+<Q2819612>  owl:sameAs  <nodee29243736845789586e79f15e4f5c5d_%3Chttp://animekun.ru/search/%D0%BD%D0%B5%D0%B1%D0%BE%20%D0%B8%20%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%202%20%D1%81%D0%B5%D0%B7%D0%BE%D0%BD/%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<nodeb26cfba3117b8f505c854c9186302db2_%3Chttp://www.allocine.fr/film/fichefilm_gen_cfilm=194895.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Aya de Yopougon" ;
+        ex:director  "Clément Oubrerie Marguerite Abouet" ;
+        ex:source    "nodeb26cfba3117b8f505c854c9186302db2_<http://www.allocine.fr/film/fichefilm_gen_cfilm=194895.html>" .
+
+<Q2819612>  owl:sameAs  <nodeb26cfba3117b8f505c854c9186302db2_%3Chttp://www.allocine.fr/film/fichefilm_gen_cfilm=194895.html%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<node6d15c9cbadec6b849beb55ebebf396d7_%3Chttp://www.bcdb.com/cartoon-story/137517-Aya_de_Yopougon%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Aya de Yopougon" ;
+        ex:source  "node6d15c9cbadec6b849beb55ebebf396d7_<http://www.bcdb.com/cartoon-story/137517-Aya_de_Yopougon>" .
+
+<Q2819612>  owl:sameAs  <node6d15c9cbadec6b849beb55ebebf396d7_%3Chttp://www.bcdb.com/cartoon-story/137517-Aya_de_Yopougon%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<nodef4d1933e6255a523e7204fdb70898082_%3Chttp://vipphim.net/hoi-phap-su/%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Shinji Ishihira Tetsuya Kakihara Akira Ishida Aya Hirano" ;
+        ex:source  "nodef4d1933e6255a523e7204fdb70898082_<http://vipphim.net/hoi-phap-su/>" .
+
+<Q2819612>  owl:sameAs  <nodef4d1933e6255a523e7204fdb70898082_%3Chttp://vipphim.net/hoi-phap-su/%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<node63953b43aa96e6536356c76a3f4d57_%3Chttp://mrstiff.es/site/javhq.com%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "http://mrstiff.es/site/javhq.com//pelicula/engrasado-encima2c-aya-sakuraba--21366131" ;
+        ex:source  "node63953b43aa96e6536356c76a3f4d57_<http://mrstiff.es/site/javhq.com>" .
+
+<Q2819612>  owl:sameAs  <node63953b43aa96e6536356c76a3f4d57_%3Chttp://mrstiff.es/site/javhq.com%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<node80dfb73f55d81d3fee8b42fa8c9b8a3_%3Chttp://twomovies.us/watch_movie/Aya_Sawan_Jhoom_Ke%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Watch Aya Sawan Jhoom Ke movie online for free" ;
+        ex:director  "http://twomovies.us/actor_director/Raghunath_Jhalani" ;
+        ex:source    "node80dfb73f55d81d3fee8b42fa8c9b8a3_<http://twomovies.us/watch_movie/Aya_Sawan_Jhoom_Ke>" .
+
+<Q2819612>  owl:sameAs  <node80dfb73f55d81d3fee8b42fa8c9b8a3_%3Chttp://twomovies.us/watch_movie/Aya_Sawan_Jhoom_Ke%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<nodee072b492354ed4181deae9ce45428_%3Chttp://mrstiff.es/buscar/straight/japones-abuelas%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "http://mrstiff.es/buscar/straight/japones-abuelas//pelicula/japone9s-abuelas-aya-sakuma-2066280" ;
+        ex:source  "nodee072b492354ed4181deae9ce45428_<http://mrstiff.es/buscar/straight/japones-abuelas>" .
+
+<Q2819612>  owl:sameAs  <nodee072b492354ed4181deae9ce45428_%3Chttp://mrstiff.es/buscar/straight/japones-abuelas%3E> ;
+        rdf:type    ex:Movie ;
+        ex:title    "AYA" .
+
+<node7ba54e8f86c787c5f316bbe1f4f5962b_%3Chttp://mrstiff.es/buscar/straight/abuelas-japan%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "http://mrstiff.es/buscar/straight/abuelas-japan//pelicula/abuelas-japonesas-aya-sakuma-13487266" ;
+        ex:source  "node7ba54e8f86c787c5f316bbe1f4f5962b_<http://mrstiff.es/buscar/straight/abuelas-japan>" .
+
+<Q2819612>  owl:sameAs  <node7ba54e8f86c787c5f316bbe1f4f5962b_%3Chttp://mrstiff.es/buscar/straight/abuelas-japan%3E> .
+
+<Q4682851>  rdf:type  ex:Movie ;
+        ex:title     "Adimai Penn" ;
+        ex:director  "K. Shankar" .
+
+<node5abc4a224b3e96e26a828273ee8858e_%3Chttp://www.imdb.com/title/tt0317056/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "\"Adimai Penn\" (original title) Slave Women" ;
+        ex:director  "K. Shankar" ;
+        ex:source    "node5abc4a224b3e96e26a828273ee8858e_<http://www.imdb.com/title/tt0317056/>" .
+
+<Q4682851>  owl:sameAs  <node5abc4a224b3e96e26a828273ee8858e_%3Chttp://www.imdb.com/title/tt0317056/%3E> .
+
+<Q5099826>  rdf:type  ex:Movie ;
+        ex:title     "China O'Brien II" ;
+        ex:director  "Robert Clouse" .
+
+<node278d322bec971e77df72793e80939f72_%3Chttp://www.nytimes.com/movies/movie/433577/China-O-Brien-II/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "China O'Brien II" ;
+        ex:director  "Robert Clouse" ;
+        ex:source    "node278d322bec971e77df72793e80939f72_<http://www.nytimes.com/movies/movie/433577/China-O-Brien-II/overview>" .
+
+<Q5099826>  owl:sameAs  <node278d322bec971e77df72793e80939f72_%3Chttp://www.nytimes.com/movies/movie/433577/China-O-Brien-II/overview%3E> .
+
+<Q383844>  rdf:type  ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node5b4db37b489795d22f77b6f467fb5fa_%3Chttp://www.imdb.com/title/tt0073631/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "node5b4db37b489795d22f77b6f467fb5fa_<http://www.imdb.com/title/tt0073631/>" .
+
+<Q383844>  owl:sameAs  <node5b4db37b489795d22f77b6f467fb5fa_%3Chttp://www.imdb.com/title/tt0073631/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node3e3d460ad7ba3620d41d634aa8aa21_%3Chttp://www.nytimes.com/movies/movie/41954/Rollerball/overview%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "node3e3d460ad7ba3620d41d634aa8aa21_<http://www.nytimes.com/movies/movie/41954/Rollerball/overview>" .
+
+<Q383844>  owl:sameAs  <node3e3d460ad7ba3620d41d634aa8aa21_%3Chttp://www.nytimes.com/movies/movie/41954/Rollerball/overview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodefcccee580759e61faf5de53a590f742_%3Chttp://www.zap2it.com/movie/rollerball/MV000079950000%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Rollerball" ;
+        ex:source  "nodefcccee580759e61faf5de53a590f742_<http://www.zap2it.com/movie/rollerball/MV000079950000>" .
+
+<Q383844>  owl:sameAs  <nodefcccee580759e61faf5de53a590f742_%3Chttp://www.zap2it.com/movie/rollerball/MV000079950000%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodeead75638d56dacc63a6223796cf33_%3Chttp://www.allocine.fr/film/fichefilm_gen_cfilm=26854.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodeead75638d56dacc63a6223796cf33_<http://www.allocine.fr/film/fichefilm_gen_cfilm=26854.html>" .
+
+<Q383844>  owl:sameAs  <nodeead75638d56dacc63a6223796cf33_%3Chttp://www.allocine.fr/film/fichefilm_gen_cfilm=26854.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node4c7a546d864022cc4c6dc4329a5952_%3Chttp://www.interfilmes.com/filme_14362_Rollerball-(Rollerball).html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "node4c7a546d864022cc4c6dc4329a5952_<http://www.interfilmes.com/filme_14362_Rollerball-(Rollerball).html>" .
+
+<Q383844>  owl:sameAs  <node4c7a546d864022cc4c6dc4329a5952_%3Chttp://www.interfilmes.com/filme_14362_Rollerball-(Rollerball).html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node70851b47549e671267f368ef8607bb_%3Chttp://www.hollywood.com/movies/231101/rollerball%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "node70851b47549e671267f368ef8607bb_<http://www.hollywood.com/movies/231101/rollerball>" .
+
+<Q383844>  owl:sameAs  <node70851b47549e671267f368ef8607bb_%3Chttp://www.hollywood.com/movies/231101/rollerball%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodeeeed93f9f66ad2c19f61d5d85bf491d_%3Chttp://www.movieposterdb.com/movie/0246894/Rollerball.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodeeeed93f9f66ad2c19f61d5d85bf491d_<http://www.movieposterdb.com/movie/0246894/Rollerball.html>" .
+
+<Q383844>  owl:sameAs  <nodeeeed93f9f66ad2c19f61d5d85bf491d_%3Chttp://www.movieposterdb.com/movie/0246894/Rollerball.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodec5f68dfd3e36bd8eb5bfcfae13f1dff_%3Chttp://www.imdb.com/title/tt0246894/?ref_=nm_flmg_msc_5%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodec5f68dfd3e36bd8eb5bfcfae13f1dff_<http://www.imdb.com/title/tt0246894/?ref_=nm_flmg_msc_5>" .
+
+<Q383844>  owl:sameAs  <nodec5f68dfd3e36bd8eb5bfcfae13f1dff_%3Chttp://www.imdb.com/title/tt0246894/?ref_=nm_flmg_msc_5%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodee58959b63fa18ce14de2c7bb4f99f6bb_%3Chttp://www.fandango.com/rollerball_27981/movieoverview%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Rollerball" ;
+        ex:source  "nodee58959b63fa18ce14de2c7bb4f99f6bb_<http://www.fandango.com/rollerball_27981/movieoverview>" .
+
+<Q383844>  owl:sameAs  <nodee58959b63fa18ce14de2c7bb4f99f6bb_%3Chttp://www.fandango.com/rollerball_27981/movieoverview%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node1fc8c09f25548e6b1b35fc2379abfad_%3Chttp://www.movieposterdb.com/poster/301d486c%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "node1fc8c09f25548e6b1b35fc2379abfad_<http://www.movieposterdb.com/poster/301d486c>" .
+
+<Q383844>  owl:sameAs  <node1fc8c09f25548e6b1b35fc2379abfad_%3Chttp://www.movieposterdb.com/poster/301d486c%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodee7b2b0e0a3ca95ba1cb9bfb08573235_%3Chttp://www.imdb.com/title/tt0246894/?ref_=nm_flmg_act_16%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodee7b2b0e0a3ca95ba1cb9bfb08573235_<http://www.imdb.com/title/tt0246894/?ref_=nm_flmg_act_16>" .
+
+<Q383844>  owl:sameAs  <nodee7b2b0e0a3ca95ba1cb9bfb08573235_%3Chttp://www.imdb.com/title/tt0246894/?ref_=nm_flmg_act_16%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node23941243707c74689bf2ebd1859ae728_%3Chttp://www.movieposterdb.com/poster/4fb6602d%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "node23941243707c74689bf2ebd1859ae728_<http://www.movieposterdb.com/poster/4fb6602d>" .
+
+<Q383844>  owl:sameAs  <node23941243707c74689bf2ebd1859ae728_%3Chttp://www.movieposterdb.com/poster/4fb6602d%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodee85e910e1c3fd14ed28eab7f5f32eea_%3Chttp://www.hollywood.com/movies/377078/rollerball%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodee85e910e1c3fd14ed28eab7f5f32eea_<http://www.hollywood.com/movies/377078/rollerball>" .
+
+<Q383844>  owl:sameAs  <nodee85e910e1c3fd14ed28eab7f5f32eea_%3Chttp://www.hollywood.com/movies/377078/rollerball%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodeba13c50de5efa711ded1d18adb2c3df_%3Chttp://www.movieposterdb.com/movie/0073631/Rollerball.html%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "nodeba13c50de5efa711ded1d18adb2c3df_<http://www.movieposterdb.com/movie/0073631/Rollerball.html>" .
+
+<Q383844>  owl:sameAs  <nodeba13c50de5efa711ded1d18adb2c3df_%3Chttp://www.movieposterdb.com/movie/0073631/Rollerball.html%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodee0cbb2b2e60629da7ff2fca2fe1e7_%3Chttp://www.movieposterdb.com/poster/e2eeae04%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodee0cbb2b2e60629da7ff2fca2fe1e7_<http://www.movieposterdb.com/poster/e2eeae04>" .
+
+<Q383844>  owl:sameAs  <nodee0cbb2b2e60629da7ff2fca2fe1e7_%3Chttp://www.movieposterdb.com/poster/e2eeae04%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node775b95bce4a4d5697fa2ddf26a7dfd9_%3Chttp://www.imdb.com/title/tt0246894/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "node775b95bce4a4d5697fa2ddf26a7dfd9_<http://www.imdb.com/title/tt0246894/>" .
+
+<Q383844>  owl:sameAs  <node775b95bce4a4d5697fa2ddf26a7dfd9_%3Chttp://www.imdb.com/title/tt0246894/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodec1e1c6b5be49774953397662f51d2a71_%3Chttp://www.imdb.com/title/tt0246894/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodec1e1c6b5be49774953397662f51d2a71_<http://www.imdb.com/title/tt0246894/>" .
+
+<Q383844>  owl:sameAs  <nodec1e1c6b5be49774953397662f51d2a71_%3Chttp://www.imdb.com/title/tt0246894/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodeaa198ce722ede755c97fbea18bbe7c2a_%3Chttp://www.rogerebert.com/reviews/rollerball-2002%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball (2002)" ;
+        ex:director  "John McTiernan" ;
+        ex:source    "nodeaa198ce722ede755c97fbea18bbe7c2a_<http://www.rogerebert.com/reviews/rollerball-2002>" .
+
+<Q383844>  owl:sameAs  <nodeaa198ce722ede755c97fbea18bbe7c2a_%3Chttp://www.rogerebert.com/reviews/rollerball-2002%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node64061764e227b4e99645d4dc4c6a9e6_%3Chttp://www.the-numbers.com/movie/Rollerball-(1975)%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball (1975)" ;
+        ex:director  "Norman Jewison" ;
+        ex:source    "node64061764e227b4e99645d4dc4c6a9e6_<http://www.the-numbers.com/movie/Rollerball-(1975)>" .
+
+<Q383844>  owl:sameAs  <node64061764e227b4e99645d4dc4c6a9e6_%3Chttp://www.the-numbers.com/movie/Rollerball-(1975)%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<node19a22071709fa638a5d588354afc656d_%3Chttp://www.listal.com/movie/rollerball-2002%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Rollerball (2002)" ;
+        ex:source  "node19a22071709fa638a5d588354afc656d_<http://www.listal.com/movie/rollerball-2002>" .
+
+<Q383844>  owl:sameAs  <node19a22071709fa638a5d588354afc656d_%3Chttp://www.listal.com/movie/rollerball-2002%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Rollerball" ;
+        ex:director  "John McTiernan" .
+
+<nodee062358637e3ffde7528fe38b435e146_%3Chttp://www.commeaucinema.com/film/rollerball-science-fiction,2104%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "John Houseman Maud Adams James Caan John Beck Rollerball Moses Gunn Norman Jewison" ;
+        ex:source  "nodee062358637e3ffde7528fe38b435e146_<http://www.commeaucinema.com/film/rollerball-science-fiction,2104>" .
+
+<Q383844>  owl:sameAs  <nodee062358637e3ffde7528fe38b435e146_%3Chttp://www.commeaucinema.com/film/rollerball-science-fiction,2104%3E> .
+
+<Q535295>  rdf:type  ex:Movie ;
+        ex:title     "Brutti, sporchi e cattivi" ;
+        ex:director  "Ettore Scola" .
+
+<nodeb8d827f84e85ae39df16acfe25b4f64_%3Chttp://www.imdb.com/title/tt0074252/technical%3E>
+        rdf:type   ex:Movie ;
+        ex:title   "Ugly, Dirty and Bad (1976)" ;
+        ex:source  "nodeb8d827f84e85ae39df16acfe25b4f64_<http://www.imdb.com/title/tt0074252/technical>" .
+
+<Q535295>  owl:sameAs  <nodeb8d827f84e85ae39df16acfe25b4f64_%3Chttp://www.imdb.com/title/tt0074252/technical%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Brutti, sporchi e cattivi" ;
+        ex:director  "Ettore Scola" .
+
+<node37b583862ce85eb3d2e7de36ac5f3087_%3Chttp://www.imdb.com/title/tt0074252/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Ugly, Dirty and Bad \"Brutti, sporchi e cattivi\" (original title)" ;
+        ex:director  "Ettore Scola" ;
+        ex:source    "node37b583862ce85eb3d2e7de36ac5f3087_<http://www.imdb.com/title/tt0074252/>" .
+
+<Q535295>  owl:sameAs  <node37b583862ce85eb3d2e7de36ac5f3087_%3Chttp://www.imdb.com/title/tt0074252/%3E> ;
+        rdf:type     ex:Movie ;
+        ex:title     "Brutti, sporchi e cattivi" ;
+        ex:director  "Ettore Scola" .
+
+<node77f695ed1347cf4b85e89f87bbb374dd_%3Chttp://www.imdb.com/title/tt0074252/%3E>
+        rdf:type     ex:Movie ;
+        ex:title     "Ugly, Dirty and Bad \"Brutti, sporchi e cattivi\" (original title)" ;
+        ex:director  "Ettore Scola" ;
+        ex:source    "node77f695ed1347cf4b85e89f87bbb374dd_<http://www.imdb.com/title/tt0074252/>" .
+
+<Q535295>  owl:sameAs  <node77f695ed1347cf4b85e89f87bbb374dd_%3Chttp://www.imdb.com/title/tt0074252/%3E> .
