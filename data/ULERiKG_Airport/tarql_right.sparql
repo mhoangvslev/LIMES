@@ -1,0 +1,10 @@
+PREFIX ex: <http://example.org/>
+
+CONSTRUCT {
+    ?URI    a    ex:Airport;
+            ex:name    ?name;
+}
+FROM <file:example.csv>
+WHERE {
+    BIND(URI(STR(?id)) AS ?URI)
+}
