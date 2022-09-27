@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE LIMES SYSTEM "../limes-core/src/main/resources/limes.dtd">
+<LIMES>    
+    <PREFIX>
+        <NAMESPACE>http://www.bbc.co.uk/ontologies/creativework/</NAMESPACE>
+        <LABEL>bbc</LABEL>
+    </PREFIX>
+
+    <PREFIX>
+        <NAMESPACE>http://www.w3.org/2002/07/owl#</NAMESPACE>
+        <LABEL>owl</LABEL>
+    </PREFIX>
+
+    <PREFIX>
+        <NAMESPACE>http://www.w3.org/1999/02/22-rdf-syntax-ns#</NAMESPACE>
+        <LABEL>rdf</LABEL>
+    </PREFIX>
+    
+    <SOURCE>
+        <ID>Wikidata</ID>
+        <ENDPOINT>file:///data/SPIMBENCH_large/Tbox1.nt</ENDPOINT>
+        <VAR>?x</VAR>
+        <PAGESIZE>2000</PAGESIZE>
+        <RESTRICTION>
+            VALUES ?cls {bbc:NewsItem bbc:BlogPost bbc:Programme} .
+            ?x rdf:type ?cls
+        </RESTRICTION>
+        <PROPERTY>bbc:title RENAME title</PROPERTY>
+        <PROPERTY>bbc:about RENAME about</PROPERTY>
+        <PROPERTY>bbc:category RENAME category</PROPERTY>
+        <TYPE>NT</TYPE>
+    </SOURCE>
+    
+    <TARGET>
+        <ID>Microdata</ID>
+        <ENDPOINT>file:///data/SPIMBENCH_large/Tbox2.nt</ENDPOINT>
+        <VAR>?y</VAR>
+        <PAGESIZE>2000</PAGESIZE>
+        <RESTRICTION>
+            VALUES ?cls {bbc:NewsItem bbc:BlogPost bbc:Programme} .
+            ?y rdf:type ?cls
+        </RESTRICTION>
+        <PROPERTY>bbc:title RENAME title</PROPERTY>
+        <PROPERTY>bbc:about RENAME about</PROPERTY>
+        <PROPERTY>bbc:category RENAME category</PROPERTY>
+        <TYPE>NT</TYPE>
+    </TARGET>
+    
+    <MLALGORITHM>
+        <NAME>wombat simple</NAME>
+        <TYPE>unsupervised</TYPE>
+        <!-- <TRAINING>trainingData.nt</TRAINING> -->
+        <PARAMETER> 
+            <NAME>max execution time in minutes</NAME>
+            <VALUE>60</VALUE>
+        </PARAMETER>
+    </MLALGORITHM>
+
+    <!-- <MLALGORITHM>
+        <NAME>eagle</NAME>
+        <TYPE>unsupervised</TYPE>
+        <PARAMETER>
+            <NAME>generations</NAME>
+            <VALUE>10</VALUE>
+        </PARAMETER>
+    </MLALGORITHM> -->
+    
+    <ACCEPTANCE>
+        <THRESHOLD>0.90</THRESHOLD>
+        <FILE>/data/SPIMBENCH_large/accepted.nt</FILE>
+        <RELATION>owl:sameAs</RELATION>
+    </ACCEPTANCE>
+    
+    <REVIEW>
+        <THRESHOLD>0.85</THRESHOLD>
+        <FILE>/data/SPIMBENCH_large/reviewme.nt</FILE>
+        <RELATION>owl:sameAs</RELATION>
+    </REVIEW>
+    
+    <EXECUTION>
+        <REWRITER>default</REWRITER>
+        <PLANNER>default</PLANNER>
+        <ENGINE>default</ENGINE>
+        <OPTIMIZATION_TIME>1000</OPTIMIZATION_TIME>
+        <EXPECTED_SELECTIVITY>0.5</EXPECTED_SELECTIVITY>
+    </EXECUTION>
+    
+    <OUTPUT>CSV</OUTPUT>
+</LIMES>
